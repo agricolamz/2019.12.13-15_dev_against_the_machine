@@ -1,0 +1,53 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning = FALSE)
+library(tidyverse)
+library(timevis)
+db <- read_csv("db.csv")
+db  %>% 
+  mutate(imprison = lubridate::dmy(imprison),
+         content = str_c(name, 
+                         " ",
+                         second_name, 
+                         " ",
+                         last_name, 
+                         " (", 
+                         born,
+                         ") <br>",
+                         clause),
+         group = as.numeric(factor(case))) %>% 
+  rename(start = imprison) %>% 
+  select(start, content, group) ->
+  for_timeline
+
+db %>% 
+  distinct(content = case,
+           id = as.numeric(factor(case))) ->
+  groups
+```
+
+###  {.tabset .tabset-fade .tabset-pills}
+
+####  Timeline
+
+Без группировки
+```{r}
+timevis(for_timeline, showZoom = TRUE, fit = TRUE)
+```
+
+
+С группировкой
+```{r}
+timevis(for_timeline, showZoom = TRUE, fit = TRUE, groups = groups)
+```
+
+####  Database
+
+```{r}
+DT::datatable(db, filter = 'top', rownames = FALSE, options = list(autoWidth = FALSE), escape = FALSE)
+```
+
