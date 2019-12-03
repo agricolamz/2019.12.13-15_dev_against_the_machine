@@ -10,6 +10,7 @@ library(timevis)
 db <- read_csv("db.csv")
 db  %>% 
   mutate(imprison = lubridate::dmy(imprison),
+         clause = str_replace_all(clause, ";", "<br>"),
          content = str_c(name, 
                          " ",
                          second_name, 
@@ -18,32 +19,57 @@ db  %>%
                          " (", 
                          born,
                          ") <br>",
-                         clause),
-         group = as.numeric(factor(case))) %>% 
-  rename(start = imprison) %>% 
-  select(start, content, group) ->
+                         clause)) %>% 
+  rename(start = imprison) ->
   for_timeline
-
-db %>% 
-  distinct(content = case,
-           id = as.numeric(factor(case))) ->
-  groups
 ```
 
 ###  {.tabset .tabset-fade .tabset-pills}
 
-####  Timeline
+####  Timeline {.tabset .tabset-fade .tabset-pills}
 
-Без группировки
+##### Без группировки
 ```{r}
 timevis(for_timeline, showZoom = TRUE, fit = TRUE)
 ```
 
 
-С группировкой
+##### По делу
 ```{r}
-timevis(for_timeline, showZoom = TRUE, fit = TRUE, groups = groups)
+db %>% 
+  distinct(content = case,
+           id = as.numeric(factor(case))) ->
+  groups_case
+
+for_timeline %>% 
+  mutate(group = as.numeric(factor(case))) %>% 
+  timevis(showZoom = TRUE, fit = TRUE, groups = groups_case)
 ```
+
+##### По полу
+```{r}
+db %>% 
+  distinct(content = gender,
+           id = as.numeric(factor(gender))) ->
+  groups_gender
+
+for_timeline %>% 
+  mutate(group = as.numeric(factor(gender))) %>% 
+  timevis(showZoom = TRUE, fit = TRUE, groups = groups_gender)
+```
+
+##### По типу заключения
+```{r}
+db %>% 
+  distinct(content = imprison_type,
+           id = as.numeric(factor(imprison_type))) ->
+  groups_imprison_type
+
+for_timeline %>% 
+  mutate(group = as.numeric(factor(imprison_type))) %>% 
+  timevis(showZoom = TRUE, fit = TRUE, groups = groups_imprison_type)
+```
+
 
 ####  Database
 
