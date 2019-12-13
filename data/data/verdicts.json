@@ -1,0 +1,5743 @@
+[{
+	"_id": {
+		"$oid": "53e0cf1465bfe00200a45ecc"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"court": {
+		"id": "533d3f8e31fc3f0200000008",
+		"value": "Замоскворецкий суд"
+	},
+	"date": "1387396800",
+	"defendant": {
+		"id": "53e0cf1465bfe00200a45ec7",
+		"value": "Владимир Акименков"
+	},
+	"name": "Владимир Акименков",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e2680909a36402008fc87b"
+	},
+	"court": null,
+	"date": "1403726400",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Полина Стронгина",
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e2680909a36402008fc877",
+		"value": "Полина Стронгина"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e2699209a36402008fc881"
+	},
+	"court": null,
+	"date": "1403640000",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Олег Мельников",
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e2699209a36402008fc87d",
+		"value": "Олег Мельников"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e26eee09a36402008fc888"
+	},
+	"court": {
+		"id": "533d3f8e31fc3f0200000008",
+		"value": "Замоскворецкий суд"
+	},
+	"date": "1387396800",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Мария Баронова",
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e26eee09a36402008fc884",
+		"value": "Мария Баронова"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e272af09a36402008fc890"
+	},
+	"court": {
+		"id": "533d3f8e31fc3f0200000008",
+		"value": "Замоскворецкий суд"
+	},
+	"date": "1387396800",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Николай Кавказский",
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e272af09a36402008fc88b",
+		"value": "Николай Кавказский"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e27fdb09a36402008fc898"
+	},
+	"court": {
+		"id": "533d3f8e31fc3f0200000008",
+		"value": "Замоскворецкий суд"
+	},
+	"date": "1387396800",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Леонид Ковязин",
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e27fdb09a36402008fc893",
+		"value": "Леонид Ковязин"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e29d0009a36402008fc89d"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дмитрий Рукавишников",
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e29d0009a36402008fc899",
+		"value": "Дмитрий Рукавишников"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e2a0d909a36402008fc8a2"
+	},
+	"court": null,
+	"date": "1389902400",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Федор Бахов",
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e2a0d909a36402008fc89e",
+		"value": "Федор Бахов"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e2a3a409a36402008fc8a8"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"court": null,
+	"date": "1389214800",
+	"defendant": {
+		"id": "53e2a3a409a36402008fc8a4",
+		"value": "Анастасия Рыбаченко"
+	},
+	"name": "Анастасия Рыбаченко",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e52e561384e3020078cf65"
+	},
+	"court": null,
+	"date": "1392580800",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e52e561384e3020078cf62",
+		"value": "Рихард Соболев"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e5371b93910802004b8be7"
+	},
+	"court": null,
+	"date": "1391112000",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e5371b93910802004b8be4",
+		"value": "Александр Каменский"
+	},
+	"name": "Болотное дело"
+},
+{
+	"_id": {
+		"$oid": "53e53c3a93910802004b8bf0"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"court": null,
+	"date": "1387915200",
+	"defendant": {
+		"id": "53e53c3a93910802004b8bec",
+		"value": "Денис Синяков"
+	},
+	"name": "Дело Arctic Sunrise",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e544bace9a2502002ca158"
+	},
+	"court": {
+		"id": "53e543e1ce9a2502002ca154",
+		"value": "Московский городской суд"
+	},
+	"date": "1365710400",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "два года шесть месяцев",
+			"periodType": {
+				"id": "5332fd20fc624c8d1500000a",
+				"value": "колония общего режима"
+			}
+		}
+	],
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e544bace9a2502002ca155",
+		"value": "Константин Лебедев"
+	},
+	"name": "Болотное дело"
+},
+{
+	"_id": {
+		"$oid": "53e545f7ce9a2502002ca15c"
+	},
+	"court": null,
+	"date": "1391976000",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e2680909a36402008fc87a",
+		"value": "Болотное дело"
+	},
+	"defendant": {
+		"id": "53e545f7ce9a2502002ca159",
+		"value": "Олег Архипенков"
+	},
+	"name": "Болотное дело"
+},
+{
+	"_id": {
+		"$oid": "53e548b3ce9a2502002ca160"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e548b3ce9a2502002ca15d",
+		"value": "Питер Генри Уилкокс"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e54c69ce9a2502002ca164"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e54c69ce9a2502002ca161",
+		"value": "Франческо Пизану"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e54e4ace9a2502002ca169"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e54e4ace9a2502002ca166",
+		"value": "Пол Ружицки"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5504ece9a2502002ca16d"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5504ece9a2502002ca16a",
+		"value": "Джонатан Бичем"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5518cce9a2502002ca171"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5518cce9a2502002ca16e",
+		"value": "Дэвид Джон Хауссман"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5559fce9a2502002ca176"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5559fce9a2502002ca173",
+		"value": "Иэн Роджерс"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e55699ce9a2502002ca17a"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"court": null,
+	"date": "1387915200",
+	"defendant": {
+		"id": "53e55699ce9a2502002ca177",
+		"value": "Александр Поль"
+	},
+	"name": "Дело Arctic Sunrise",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e55871ce9a2502002ca17f"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"court": null,
+	"date": "1387915200",
+	"defendant": {
+		"id": "53e55871ce9a2502002ca17c",
+		"value": "Фрэнк Хьюетсон"
+	},
+	"name": "Дело Arctic Sunrise",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e559e3ce9a2502002ca184"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e559e3ce9a2502002ca181",
+		"value": "Камила Спесьяле"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e55ae8ce9a2502002ca188"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e55ae8ce9a2502002ca185",
+		"value": "Кристиан Д'Алессандро"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e55ca9ce9a2502002ca18c"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e55ca9ce9a2502002ca189",
+		"value": "Кирон Брайан"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e55dc3ce9a2502002ca190"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e55dc3ce9a2502002ca18d",
+		"value": "Томаш Дземяньчук"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e55f0cce9a2502002ca194"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e55f0cce9a2502002ca191",
+		"value": "Филип Болл"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5e37f5391530200a51f8e"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5e37e5391530200a51f8b",
+		"value": "Мигель Эрнан Перес Орси"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5e4fb5391530200a51f92"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5e4fa5391530200a51f8f",
+		"value": "Марко Вебер"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5e61f5391530200a51f96"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5e61f5391530200a51f93",
+		"value": "Анне Мие Руэр Йенсен"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5e78d5391530200a51f9a"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5e78d5391530200a51f97",
+		"value": "Гизем Акхан"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5e8c15391530200a51f9e"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5e8c15391530200a51f9b",
+		"value": "Александра Харрис"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5ed015391530200a51fa2"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5ed015391530200a51f9f",
+		"value": "Энтони Перретт"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5edf05391530200a51fa6"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5edf05391530200a51fa3",
+		"value": "Андрей Аллахвердов"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5ef035391530200a51faa"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5ef035391530200a51fa7",
+		"value": "Екатерина Заспа"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5f06c5391530200a51fae"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5f06c5391530200a51fab",
+		"value": "Роман Долгов"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5f2e35391530200a51fb2"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53e5f2e35391530200a51faf",
+		"value": "Руслан Якушев"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53e5fa0c5391530200a51fbb"
+	},
+	"court": {
+		"id": "53e5f9255391530200a51fb6",
+		"value": "Вологодский городской суд"
+	},
+	"date": "1347825600",
+	"penalty": "120 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Евгения Доможирова",
+	"case": {
+		"id": "53e5fa0c5391530200a51fba",
+		"value": "Дело Евгения Доможирова"
+	},
+	"defendant": {
+		"id": "53e5fa0c5391530200a51fb7",
+		"value": "Евгений Доможиров"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e5fb975391530200a51fc1"
+	},
+	"court": {
+		"id": "53e5f9255391530200a51fb6",
+		"value": "Вологодский городской суд"
+	},
+	"date": "1371499200",
+	"penalty": "",
+	"penalLabor": "1 год 6 месяцев",
+	"penalLaborOn": true,
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Анатолия Грязнова",
+	"case": {
+		"id": "53e5fb975391530200a51fc0",
+		"value": "Дело Анатолия Грязнова"
+	},
+	"defendant": {
+		"id": "53e5fb975391530200a51fbd",
+		"value": "Анатолий Грязнов"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e61bfb37c8d30200bb2aee"
+	},
+	"court": {
+		"id": "53e61b3737c8d30200bb2ae8",
+		"value": "Тверской районный суд Москвы"
+	},
+	"date": "1327960800",
+	"penalty": "",
+	"penalLabor": "6 месяцев",
+	"penalLaborOn": true,
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Матвея Крылова",
+	"case": {
+		"id": "53e61bfb37c8d30200bb2aed",
+		"value": "Дело Матвея Крылова"
+	},
+	"defendant": {
+		"id": "53e61bfb37c8d30200bb2aea",
+		"value": "Дмитрий Путенихин"
+	}
+},
+{
+	"_id": {
+		"$oid": "53e648b013e9870200af7fd2"
+	},
+	"case": {
+		"id": "53e648b013e9870200af7fd1",
+		"value": "Дело Курова и Попова"
+	},
+	"court": {
+		"id": "53e6476913e9870200af7fcc",
+		"value": "Ленинский районный суд Владивостока"
+	},
+	"date": "1340308800",
+	"defendant": {
+		"id": "53e648b013e9870200af7fce",
+		"value": "Александр Куров"
+	},
+	"name": "Дело Курова и Попова",
+	"penalLabor": "",
+	"penalty": "350 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e64f6213e9870200af7fd7"
+	},
+	"case": {
+		"id": "53e648b013e9870200af7fd1",
+		"value": "Дело Курова и Попова"
+	},
+	"court": {
+		"id": "53e6476913e9870200af7fcc",
+		"value": "Ленинский районный суд Владивостока"
+	},
+	"date": "1381435200",
+	"defendant": {
+		"id": "53e64f6213e9870200af7fd3",
+		"value": "Игорь Попов"
+	},
+	"name": "Дело Курова и Попова",
+	"penalLabor": "",
+	"penalty": "50 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e6560913e9870200af7fdd"
+	},
+	"case": {
+		"id": "53e6560913e9870200af7fdc",
+		"value": "Дело о семи демотиваторах"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53e6560913e9870200af7fd9",
+		"value": "Роман Матвеев"
+	},
+	"name": "Дело о семи демотиваторах",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e65d0713e9870200af7fe4"
+	},
+	"case": {
+		"id": "53e65d0713e9870200af7fe3",
+		"value": "Дело Андрея Дедкова"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53e65d0713e9870200af7fe0",
+		"value": "Андрей Дедков"
+	},
+	"name": "Дело Андрея Дедкова",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e683af22a1100200b64177"
+	},
+	"case": {
+		"id": "53e683af22a1100200b64176",
+		"value": "Дело Хизб ут-Тахрир в Башкортостане"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53e683af22a1100200b64173",
+		"value": "Ильгиз Салахов"
+	},
+	"name": "Дело Хизб ут-Тахрир в Башкортостане",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e6862822a1100200b6417b"
+	},
+	"case": {
+		"id": "53e683af22a1100200b64176",
+		"value": "Дело Хизб ут-Тахрир в Башкортостане"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53e6862822a1100200b64178",
+		"value": "Шамиль Хуснияров"
+	},
+	"name": "Дело Хизб ут-Тахрир в Башкортостане",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e68fa922a1100200b64182"
+	},
+	"case": {
+		"id": "53e683af22a1100200b64176",
+		"value": "Дело Хизб ут-Тахрир в Башкортостане"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53e68fa922a1100200b6417f",
+		"value": "Ильшат Салимов"
+	},
+	"name": "Дело Хизб ут-Тахрир в Башкортостане",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e6928f22a1100200b64186"
+	},
+	"case": {
+		"id": "53e683af22a1100200b64176",
+		"value": "Дело Хизб ут-Тахрир в Башкортостане"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53e6928f22a1100200b64183",
+		"value": "Газим Кутлуяров"
+	},
+	"name": "Дело Хизб ут-Тахрир в Башкортостане",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53e6935422a1100200b6418a"
+	},
+	"case": {
+		"id": "53e683af22a1100200b64176",
+		"value": "Дело Хизб ут-Тахрир в Башкортостане"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53e6935422a1100200b64187",
+		"value": "Руслан Асылов"
+	},
+	"name": "Дело Хизб ут-Тахрир в Башкортостане",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53eb75f485664202004f796e"
+	},
+	"case": {
+		"id": "53eb75f485664202004f796d",
+		"value": "Дело Николая Кузнецова"
+	},
+	"court": {
+		"id": "53eb756285664202004f7968",
+		"value": "Ступинский городской суд"
+	},
+	"date": "1363809600",
+	"defendant": {
+		"id": "53eb75f485664202004f796a",
+		"value": "Николай Кузнецов"
+	},
+	"name": "Дело Николая Кузнецова",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "два года",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53eb823c85664202004f7976"
+	},
+	"case": {
+		"id": "53eb823c85664202004f7975",
+		"value": "Дело о лосях"
+	},
+	"court": {
+		"id": "53eb81f685664202004f7971",
+		"value": "Дмитровский городской суд"
+	},
+	"date": "1386619200",
+	"defendant": {
+		"id": "53eb823c85664202004f7972",
+		"value": "Александр Довыденко"
+	},
+	"name": "Дело о лосях",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "три года",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53eb9e4aa498630200ffd528"
+	},
+	"case": {
+		"id": "53eb9e4aa498630200ffd527",
+		"value": "Дело Андрея Рудомахи"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53eb9e4aa498630200ffd524",
+		"value": "Андрей Рудомаха"
+	},
+	"name": "Дело Андрея Рудомахи",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53eba8a2a498630200ffd52f"
+	},
+	"case": {
+		"id": "53eba8a2a498630200ffd52e",
+		"value": "Дело о вымогательстве с УГМК"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53eba8a2a498630200ffd52b",
+		"value": "Игорь Житенев"
+	},
+	"name": "Дело о вымогательстве с УГМК",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53ee287917400702008ccb43"
+	},
+	"case": {
+		"id": "53ee287917400702008ccb42",
+		"value": ""
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53ee287917400702008ccb3e",
+		"value": "Андрей Тесленко"
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53f280fae5f99c02009fb81c"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"court": null,
+	"date": "1387915200",
+	"defendant": {
+		"id": "53f280fae5f99c02009fb819",
+		"value": "Ана Паула Алминьяна Масьел"
+	},
+	"name": "Дело Arctic Sunrise",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53f28266e5f99c02009fb820"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53f28266e5f99c02009fb81d",
+		"value": "Фаиза Аулахсен"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53f28368e5f99c02009fb824"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53f28368e5f99c02009fb821",
+		"value": "Колин Расселл"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53f28535e5f99c02009fb828"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53f28535e5f99c02009fb825",
+		"value": "Маннес Убельс"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53f2868fe5f99c02009fb82c"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53f2868fe5f99c02009fb829",
+		"value": "Сини Саарела"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53f3405a2c16cf0200bb0762"
+	},
+	"case": {
+		"id": "53f3405a2c16cf0200bb0761",
+		"value": ""
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53f3405a2c16cf0200bb075e",
+		"value": "Абубакир Бейва"
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53f671eb6628370200f899da"
+	},
+	"court": null,
+	"date": "1387915200",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "53e53c3a93910802004b8bef",
+		"value": "Дело Arctic Sunrise"
+	},
+	"defendant": {
+		"id": "53f671eb6628370200f899d6",
+		"value": "Дмитрий Литвинов"
+	},
+	"name": "Дело Arctic Sunrise"
+},
+{
+	"_id": {
+		"$oid": "53f8888315a859020055a165"
+	},
+	"case": {
+		"id": "53f8888315a859020055a164",
+		"value": "Дело об азартных играх"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53f8888315a859020055a161",
+		"value": "Роман Хабаров"
+	},
+	"name": "Дело об азартных играх",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53f8a270becd00020047a1fa"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"defendant": {
+		"id": "53f8888315a859020055a161",
+		"value": "Роман Хабаров"
+	},
+	"name": "Дело о самоуправстве",
+	"case": {
+		"id": "53f8a270becd00020047a1f9",
+		"value": "Дело о самоуправстве"
+	}
+},
+{
+	"_id": {
+		"$oid": "53f8ac58becd00020047a204"
+	},
+	"case": {
+		"id": "53f8ac58becd00020047a203",
+		"value": "Дело Алексея Расходчикова"
+	},
+	"court": {
+		"id": "53f8ac3cbecd00020047a1ff",
+		"value": "Октябрьский районный суд Мурманска"
+	},
+	"date": "1392148800",
+	"defendant": {
+		"id": "53f8ac58becd00020047a200",
+		"value": "Алексей Расходчиков"
+	},
+	"name": "Дело Алексея Расходчикова",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "один год лишения свободы",
+			"periodType": {
+				"id": "5332fd20fc624c8d1500000a",
+				"value": "колония общего режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53f8c66abcc1b102000439da"
+	},
+	"case": {
+		"id": "53f8c66abcc1b102000439d9",
+		"value": "Дело о дезорганизации колонии"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53f8c66abcc1b102000439d6",
+		"value": "Павел Череватов"
+	},
+	"name": "Дело о дезорганизации колонии",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53f8d757b85d2f02005dc972"
+	},
+	"case": {
+		"id": "53f8d757b85d2f02005dc971",
+		"value": "Дело Игоря Юдина"
+	},
+	"court": {
+		"id": "53f8d733b85d2f02005dc96d",
+		"value": "Советский районный суд Челябинска"
+	},
+	"date": "1395777600",
+	"defendant": {
+		"id": "53f8d757b85d2f02005dc96e",
+		"value": "Игорь Юдин"
+	},
+	"name": "Дело Игоря Юдина",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "один год шесть месяцев лишения свободы",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53f8dd24b85d2f02005dc979"
+	},
+	"case": {
+		"id": "53f8dd24b85d2f02005dc978",
+		"value": "Дело Константина Жаринова"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53f8dd24b85d2f02005dc975",
+		"value": "Константин Жаринов"
+	},
+	"name": "Дело Константина Жаринова",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53fdd869c6af320200002086"
+	},
+	"court": {
+		"id": "53fdd1b5c6af320200002081",
+		"value": "Калининский районный суд г. Новосибирска"
+	},
+	"date": "1400616000",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело новосибирских нацболов",
+	"case": {
+		"id": "53fdd869c6af320200002085",
+		"value": "Дело новосибирских нацболов"
+	},
+	"defendant": {
+		"id": "53fdd869c6af320200002082",
+		"value": "Николай  Балуев "
+	}
+},
+{
+	"_id": {
+		"$oid": "53fdff4bc6af320200002091"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Ильи Романова",
+	"case": {
+		"id": "53fdff4bc6af320200002090",
+		"value": "Дело Ильи Романова"
+	},
+	"defendant": {
+		"id": "53fdff4bc6af32020000208d",
+		"value": "Илья Романов"
+	}
+},
+{
+	"_id": {
+		"$oid": "53fe17e4b09ab20200d2ae13"
+	},
+	"court": {
+		"id": "53fe17b8b09ab20200d2ae0e",
+		"value": "Магасский районный суд Ингушетии"
+	},
+	"date": "1395172800",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Мусы Абадиева",
+	"case": {
+		"id": "53fe17e4b09ab20200d2ae12",
+		"value": "Дело Мусы Абадиева"
+	},
+	"defendant": {
+		"id": "53fe17e4b09ab20200d2ae0f",
+		"value": "Муса Абадиев"
+	}
+},
+{
+	"_id": {
+		"$oid": "53fe29a9911c8102002a8e9b"
+	},
+	"case": {
+		"id": "53fe29a9911c8102002a8e9a",
+		"value": "Дело о захвате приемной МИДа"
+	},
+	"court": {
+		"id": "53fdf330c6af320200002089",
+		"value": "судебный участок мирового судьи № 416 района Арбат г. Москвы "
+	},
+	"date": "1341432000",
+	"defendant": {
+		"id": "53fe29a9911c8102002a8e97",
+		"value": "Татьяна  Харламова "
+	},
+	"name": "Дело о захвате приемной МИДа",
+	"penalLabor": "",
+	"penalty": "20 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53fe2c60911c8102002a8e9f"
+	},
+	"case": {
+		"id": "53fe29a9911c8102002a8e9a",
+		"value": "Дело о захвате приемной МИДа"
+	},
+	"court": {
+		"id": "53fdf330c6af320200002089",
+		"value": "судебный участок мирового судьи № 416 района Арбат г. Москвы "
+	},
+	"date": "1341950400",
+	"defendant": {
+		"id": "53fe2c60911c8102002a8e9c",
+		"value": "Ольга Комарова "
+	},
+	"name": "Дело о захвате приемной МИДа",
+	"penalLabor": "",
+	"penalty": "30 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53fe2f67911c8102002a8ea3"
+	},
+	"case": {
+		"id": "53fe29a9911c8102002a8e9a",
+		"value": "Дело о захвате приемной МИДа"
+	},
+	"court": {
+		"id": "53fdf330c6af320200002089",
+		"value": "судебный участок мирового судьи № 416 района Арбат г. Москвы "
+	},
+	"date": "1343332800",
+	"defendant": {
+		"id": "53fe2f67911c8102002a8ea0",
+		"value": "Евгений Донец "
+	},
+	"name": "Дело о захвате приемной МИДа",
+	"penalLabor": "",
+	"penalty": "45 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53fe40dd911c8102002a8ea9"
+	},
+	"case": {
+		"id": "53fe40dd911c8102002a8ea8",
+		"value": "Манежное дело"
+	},
+	"court": {
+		"id": "53e61b3737c8d30200bb2ae8",
+		"value": "Тверской районный суд Москвы"
+	},
+	"date": "1319745600",
+	"defendant": {
+		"id": "53fe40dd911c8102002a8ea5",
+		"value": "Кирилл  Унчук "
+	},
+	"name": "Манежное дело",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "3 года лишения свободы (приговорен к 2 годам 6 месяцам лишения свободы по ч. 1 ст. 318, но ранее назначенное условное осуждение от 12.10.2009 года за акцию в МИДе отменено, и к назначенному Унчуку наказанию частично присоединено наказание, не отбытое по приговору за акцию в МИДе. Таким образом, окончательно назначено наказание в виде 3 лет лишения свободы)",
+			"periodType": {
+				"id": "5332fd20fc624c8d1500000a",
+				"value": "колония общего режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53ff3290528de0020082710a"
+	},
+	"case": {
+		"id": "53fe29a9911c8102002a8e9a",
+		"value": "Дело о захвате приемной МИДа"
+	},
+	"court": {
+		"id": "53fdf330c6af320200002089",
+		"value": "судебный участок мирового судьи № 416 района Арбат г. Москвы "
+	},
+	"date": "1343592000",
+	"defendant": {
+		"id": "53ff3290528de00200827107",
+		"value": "М��хаил Клюжев"
+	},
+	"name": "Дело о захвате приемной МИДа",
+	"penalLabor": "",
+	"penalty": "30 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53ff5345528de00200827114"
+	},
+	"case": {
+		"id": "53ff5345528de00200827113",
+		"value": ""
+	},
+	"court": {
+		"id": "53ff5046528de0020082710f",
+		"value": "Центральный районный суд г. Комсомольска-на-Амуре"
+	},
+	"date": "1336420800",
+	"defendant": {
+		"id": "53ff5345528de00200827110",
+		"value": "Антон  Лукин "
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "3 года лишения свободы",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53ffbafffc825e020054c5fd"
+	},
+	"case": {
+		"id": "53ffbafffc825e020054c5fc",
+		"value": "Петербургское дело Хизб ут-Тахрир"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53ffbafffc825e020054c5f9",
+		"value": "Роман Иванов"
+	},
+	"name": "Петербургское дело Хизб ут-Тахрир",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53ffbc70fc825e020054c601"
+	},
+	"case": {
+		"id": "53ffbafffc825e020054c5fc",
+		"value": "Петербургское дело Хизб ут-Тахрир"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53ffbc70fc825e020054c5fe",
+		"value": "Карим Ибрагимов"
+	},
+	"name": "Петербургское дело Хизб ут-Тахрир",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53ffbe0afc825e020054c605"
+	},
+	"case": {
+		"id": "53ffbafffc825e020054c5fc",
+		"value": "Петербургское дело Хизб ут-Тахрир"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53ffbe0afc825e020054c602",
+		"value": "Сергей Яблоков"
+	},
+	"name": "Петербургское дело Хизб ут-Тахрир",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "53ffc06ffc825e020054c609"
+	},
+	"case": {
+		"id": "53ffbafffc825e020054c5fc",
+		"value": "Петербургское дело Хизб ут-Тахрир"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "53ffc06ffc825e020054c606",
+		"value": "Гапур Магомедов"
+	},
+	"name": "Петербургское дело Хизб ут-Тахрир",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54020bd62caf41020013d577"
+	},
+	"case": {
+		"id": "53ffbafffc825e020054c5fc",
+		"value": "Петербургское дело Хизб ут-Тахрир"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "54020bd62caf41020013d574",
+		"value": "Эльдар Рамазанов"
+	},
+	"name": "Петербургское дело Хизб ут-Тахрир",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54020cbc2caf41020013d57b"
+	},
+	"case": {
+		"id": "53ffbafffc825e020054c5fc",
+		"value": "Петербургское дело Хизб ут-Тахрир"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "54020cbc2caf41020013d578",
+		"value": "Махамадимин Салиев"
+	},
+	"name": "Петербургское дело Хизб ут-Тахрир",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54036e0632ba110200d61817"
+	},
+	"case": {
+		"id": "54036e0632ba110200d61816",
+		"value": "Дело Елены Поляковой"
+	},
+	"court": {
+		"id": "54036dc732ba110200d61812",
+		"value": "Клинский городской суд"
+	},
+	"date": "1382040000",
+	"defendant": {
+		"id": "54036e0632ba110200d61813",
+		"value": "Елена Полякова"
+	},
+	"name": "Дело Елены Поляковой",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "один год шесть месяцев",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5403a5ba2354fa020074a5ef"
+	},
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"court": {
+		"id": "540364f332ba110200d6180f",
+		"value": "Выборгский районный суд г. Санкт-Петербурга"
+	},
+	"date": "1356638400",
+	"defendant": {
+		"id": "5403a5ba2354fa020074a5eb",
+		"value": "Андрей  Дмитриев "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати",
+	"penalLabor": "",
+	"penalty": "200 тысяч рублей,  но за истечением срока давности освобожден от наказания.",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54046011f5489e02009162e8"
+	},
+	"case": {
+		"id": "54046011f5489e02009162e7",
+		"value": "Дело Максима Ефимова"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "54046011f5489e02009162e4",
+		"value": "Максим Ефимов"
+	},
+	"name": "Дело Максима Ефимова",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540613bdbf83a80200c3648e"
+	},
+	"case": {
+		"id": "540613bdbf83a80200c3648d",
+		"value": "Игорное дело в Набережных Челнах"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540613bdbf83a80200c3648a",
+		"value": "Сергей Еретнов"
+	},
+	"name": "Игорное дело в Набережных Челнах",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5406f5372b98e102000ce603"
+	},
+	"case": {
+		"id": "5406f5372b98e102000ce602",
+		"value": "Дело московских сторонников \"Хизб ут-Тахрир\""
+	},
+	"court": null,
+	"date": "1385582400",
+	"defendant": {
+		"id": "5406f5372b98e102000ce5ff",
+		"value": "Расим Каркаев"
+	},
+	"name": "Дело московских сторонников \"Хизб ут-Тахрир\"",
+	"penalLabor": "",
+	"penalty": "50 тыс. руб.",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5406fe9f2b98e102000ce609"
+	},
+	"case": {
+		"id": "5406f5372b98e102000ce602",
+		"value": "Дело московских сторонников \"Хизб ут-Тахрир\""
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "5406fe9f2b98e102000ce605",
+		"value": "Тимур  Мальсагов"
+	},
+	"name": "Дело московских сторонников \"Хизб ут-Тахрир\"",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54071ea5a75fd702007379f3"
+	},
+	"case": {
+		"id": "54071ea5a75fd702007379f2",
+		"value": "Дело о резиновых квартирах"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "54071ea5a75fd702007379ef",
+		"value": "Татьяна Котляр"
+	},
+	"name": "Дело о резиновых квартирах",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540827a0d259c902003890d8"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "540827a0d259c902003890d7",
+		"value": "Дело Pussy Riot"
+	},
+	"court": {
+		"id": "540826b4d259c902003890d3",
+		"value": "Хамовнический райсуд"
+	},
+	"date": "1345147200",
+	"defendant": {
+		"id": "5408279fd259c902003890d4",
+		"value": "Надежда Толоконникова"
+	},
+	"name": "Дело Pussy Riot",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "2 года",
+			"periodType": {
+				"id": "5332fd20fc624c8d1500000a",
+				"value": "колония общего режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54083540d259c902003890dd"
+	},
+	"case": {
+		"id": "5406f5372b98e102000ce602",
+		"value": "Дело московских сторонников \"Хизб ут-Тахрир\""
+	},
+	"court": {
+		"id": "53e543e1ce9a2502002ca154",
+		"value": "Московский городской суд"
+	},
+	"date": "1406664000",
+	"defendant": {
+		"id": "54083540d259c902003890d9",
+		"value": "Сайпула Курбанов"
+	},
+	"name": "Дело московских сторонников \"Хизб ут-Тахрир\"",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "8 лет",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5408581f2850200200e74025"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело о тексте \"Русофобии пост\"",
+	"case": {
+		"id": "5408581f2850200200e74024",
+		"value": "Дело о тексте \"Русофобии пост\""
+	},
+	"defendant": {
+		"id": "5408581f2850200200e74021",
+		"value": "Антон Подчасов"
+	}
+},
+{
+	"_id": {
+		"$oid": "540871252850200200e7402b"
+	},
+	"case": {
+		"id": "540871252850200200e7402a",
+		"value": ""
+	},
+	"court": {
+		"id": "540870a82850200200e74026",
+		"value": "мировой суд судебного участка №15 Набережных Челнов"
+	},
+	"date": "1392753600",
+	"defendant": {
+		"id": "540871252850200200e74027",
+		"value": "Хафизов Ильнур"
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "100 тыс. руб.",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54089632d0001b0200d5aa01"
+	},
+	"case": {
+		"id": "54089632d0001b0200d5aa00",
+		"value": "Новгородское дело о фашистской символике"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "54089632d0001b0200d5a9fd",
+		"value": "Ксения Сергеева"
+	},
+	"name": "Новгородское дело о фашистской символике",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54096c157626ba02002ea83a"
+	},
+	"case": {
+		"id": "540871252850200200e7402a",
+		"value": "Дело о домашнем медресе в Набережных Челнах"
+	},
+	"court": {
+		"id": "540870a82850200200e74026",
+		"value": "мировой суд судебного участка №15 Набережных Челнов"
+	},
+	"date": "1392753600",
+	"defendant": {
+		"id": "54096c157626ba02002ea836",
+		"value": "Фидаиль Салимзянов "
+	},
+	"name": "Дело о домашнем медресе в Набережных Челнах",
+	"penalLabor": "",
+	"penalty": "50 тыс. руб.",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54097d747626ba02002ea83f"
+	},
+	"case": {
+		"id": "5406f5372b98e102000ce602",
+		"value": "Дело московских сторонников \"Хизб ут-Тахрир\""
+	},
+	"court": {
+		"id": "53e543e1ce9a2502002ca154",
+		"value": "Московский городской суд"
+	},
+	"date": "1406664000",
+	"defendant": {
+		"id": "54097d747626ba02002ea83b",
+		"value": "Зикруллохон  Рахмонходжаев"
+	},
+	"name": "Дело московских сторонников \"Хизб ут-Тахрир\"",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "7 лет лишения свободы",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540984667626ba02002ea844"
+	},
+	"case": {
+		"id": "5406f5372b98e102000ce602",
+		"value": "Дело московских сторонников \"Хизб ут-Тахрир\""
+	},
+	"court": {
+		"id": "53e543e1ce9a2502002ca154",
+		"value": "Московский городской суд"
+	},
+	"date": "1406664000",
+	"defendant": {
+		"id": "540984667626ba02002ea840",
+		"value": "Азизбек Инамов"
+	},
+	"name": "Дело московских сторонников \"Хизб ут-Тахрир\"",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "11 лет",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5409ecedf763b9020068e6ae"
+	},
+	"case": {
+		"id": "5409ecedf763b9020068e6ad",
+		"value": "Дело Виталия Никулина"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "5409ecedf763b9020068e6aa",
+		"value": "Виталий Никулин"
+	},
+	"name": "Дело Виталия Никулина",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540b04c8b85504020077a43a"
+	},
+	"case": {
+		"id": "5406f5372b98e102000ce602",
+		"value": "Дело московских сторонников \"Хизб ут-Тахрир\""
+	},
+	"court": {
+		"id": "53e543e1ce9a2502002ca154",
+		"value": "Московский городской суд"
+	},
+	"date": "1406664000",
+	"defendant": {
+		"id": "540b04c8b85504020077a436",
+		"value": "Шамиль Исмаилов"
+	},
+	"name": "Дело московских сторонников \"Хизб ут-Тахрир\"",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "8 лет",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540b96d81ecbea02007e7687"
+	},
+	"case": {
+		"id": "540b96d81ecbea02007e7686",
+		"value": ""
+	},
+	"court": {
+		"id": "540b968c1ecbea02007e7682",
+		"value": "Тобольский городской суд"
+	},
+	"date": "1390161600",
+	"defendant": {
+		"id": "540b96d81ecbea02007e7683",
+		"value": "Ильнур Аширмаметов"
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "Прекращение дела за истечением срока давности.",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540b97a61ecbea02007e768d"
+	},
+	"case": {
+		"id": "540b97a61ecbea02007e768c",
+		"value": "Дело Стратегии-31 в Мурманске"
+	},
+	"court": {
+		"id": "540b97781ecbea02007e7688",
+		"value": "мировой суд Октябрьского района Мурманска"
+	},
+	"date": "1322510400",
+	"defendant": {
+		"id": "540b97a61ecbea02007e7689",
+		"value": "Артур Степаненко"
+	},
+	"name": "Дело Стратегии-31 в Мурманске",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540b9b241ecbea02007e7692"
+	},
+	"case": {
+		"id": "540b97a61ecbea02007e768c",
+		"value": "Дело Стратегии-31 в Мурманске"
+	},
+	"court": {
+		"id": "540b9af31ecbea02007e768e",
+		"value": "участок №5 мирового суда Октябрьского района Мурманска"
+	},
+	"date": "1338148800",
+	"defendant": {
+		"id": "540b9b241ecbea02007e768f",
+		"value": "Инна Маринина"
+	},
+	"name": "Дело Стратегии-31 в Мурманске",
+	"penalLabor": "",
+	"penalty": "15 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540ca8c46043d80200ad0a3c"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540ca8c46043d80200ad0a38",
+		"value": "Андрей Горин"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540ca9af6043d80200ad0a40"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540ca9af6043d80200ad0a3d",
+		"value": "Алексей Сочнев"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540cab0c6043d80200ad0a45"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540cab0c6043d80200ad0a42",
+		"value": "Дмитрий Колесников"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540cab656043d80200ad0a49"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540cab656043d80200ad0a46",
+		"value": "Сергей Заплавнов"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540cabd66043d80200ad0a4d"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540cabd66043d80200ad0a4a",
+		"value": "Игорь Щука"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540cac236043d80200ad0a51"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540cac236043d80200ad0a4e",
+		"value": "Дмитрий Борисов"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540cac836043d80200ad0a55"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540cac836043d80200ad0a52",
+		"value": "Нина Силина"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540cacd76043d80200ad0a59"
+	},
+	"case": {
+		"id": "540ca8c46043d80200ad0a3b",
+		"value": "Дело московских нацболов"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540cacd76043d80200ad0a56",
+		"value": "Мария Зинченко"
+	},
+	"name": "Дело московских нацболов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "540e0b7815c5c20200e7e957"
+	},
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "540e0b7815c5c20200e7e954",
+		"value": "Константин Христофоров"
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "541030684b2d3102009d3db7"
+	},
+	"court": {
+		"id": "541030454b2d3102009d3db1",
+		"value": "Златоустовский городской суд"
+	},
+	"date": "1409515200",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "один год колонии общего режима",
+			"periodType": null
+		}
+	],
+	"name": "Дело Ускова и Бойдарико",
+	"case": {
+		"id": "541030684b2d3102009d3db6",
+		"value": "Дело Ускова и Бойдарико"
+	},
+	"defendant": {
+		"id": "541030684b2d3102009d3db3",
+		"value": "Валерий Усков"
+	}
+},
+{
+	"_id": {
+		"$oid": "541052359266bc02005c7cb0"
+	},
+	"case": {
+		"id": "541030684b2d3102009d3db6",
+		"value": "Дело Ускова и Бойдарико"
+	},
+	"court": {
+		"id": "541030454b2d3102009d3db1",
+		"value": "Златоустовский городской суд"
+	},
+	"date": "1409515200",
+	"defendant": {
+		"id": "541052359266bc02005c7cad",
+		"value": "Вячеслав Бойдариков"
+	},
+	"name": "Дело Ускова и Бойдарико",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "один год",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5412154e1c371b0200e640d3"
+	},
+	"case": {
+		"id": "5412154e1c371b0200e640d2",
+		"value": "Дело Анатолия Кузнецова"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "5412154e1c371b0200e640cf",
+		"value": "Анатолий Кузнецов"
+	},
+	"name": "Дело Анатолия Кузнецова",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5413634edccf7802005e070e"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Сергея Селиванова",
+	"case": {
+		"id": "5413634edccf7802005e070d",
+		"value": "Дело Сергея Селиванова"
+	},
+	"defendant": {
+		"id": "5413634edccf7802005e070a",
+		"value": "Сергей Селиванов"
+	}
+},
+{
+	"_id": {
+		"$oid": "54157d8163774f0200ba172a"
+	},
+	"case": {
+		"id": "540871252850200200e7402a",
+		"value": "Дело о домашнем медресе в Набережных Челнах"
+	},
+	"court": null,
+	"date": "1395172800",
+	"defendant": {
+		"id": "54157d8163774f0200ba1727",
+		"value": "Накия Шарифуллина"
+	},
+	"name": "Дело о домашнем медресе в Набережных Челнах",
+	"penalLabor": "",
+	"penalty": "100 тыс. руб.",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5415848363774f0200ba172f"
+	},
+	"court": {
+		"id": "5414d20a0bb0f80200dab69f",
+		"value": "Ленинский районный суд Кирова"
+	},
+	"date": "1342555200",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "4 года",
+			"periodType": {
+				"id": "5332fd20fc624c8d1500000a",
+				"value": "колония общего режима"
+			}
+		},
+		{
+			"period": "4 года",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	],
+	"name": "Дело  Кировлеса",
+	"case": {
+		"id": "5415848363774f0200ba172e",
+		"value": "Дело  Кировлеса"
+	},
+	"defendant": {
+		"id": "5415848363774f0200ba172b",
+		"value": "Петр Офицеров"
+	}
+},
+{
+	"_id": {
+		"$oid": "541701dcc161d00200b80c47"
+	},
+	"case": {
+		"id": "541701dcc161d00200b80c46",
+		"value": ""
+	},
+	"court": null,
+	"date": "1325016000",
+	"defendant": {
+		"id": "541701dcc161d00200b80c43",
+		"value": "Андрей  Ермоленко"
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "закрыто за отсутствием состава преступления",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "541754fe4670660200217437"
+	},
+	"court": {
+		"id": "541754d74670660200217432",
+		"value": "мировой участок №368 Тверского района Москвы"
+	},
+	"date": "1376251200",
+	"penalty": "800 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Андрея Столбунова о неисполнении решения суда",
+	"case": {
+		"id": "541754fe4670660200217436",
+		"value": "Дело Андрея Столбунова о неисполнении решения суда"
+	},
+	"defendant": {
+		"id": "541754fe4670660200217433",
+		"value": "Андрей Столбунов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5417b72f4310bf0200e1a5b7"
+	},
+	"court": {
+		"id": "533d3f8e31fc3f0200000008",
+		"value": "Замоскворецкий суд"
+	},
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "дело возвращено в прокуратуру 28 апреля, процесс возобновился 29 июля",
+			"periodType": null
+		}
+	],
+	"name": "Дело Ив Роше",
+	"case": {
+		"id": "5417b72e4310bf0200e1a5b6",
+		"value": "Дело Ив Роше"
+	},
+	"defendant": {
+		"id": "5417b72e4310bf0200e1a5b3",
+		"value": "Олег Навальный"
+	}
+},
+{
+	"_id": {
+		"$oid": "54198a399b363d0200c4a1f1"
+	},
+	"case": {
+		"id": "54198a399b363d0200c4a1f0",
+		"value": "Дело свидетелей защиты майора Матвеева"
+	},
+	"court": {
+		"id": "541984f19b363d0200c4a1eb",
+		"value": "Владивостокский гарнизонный военный суд"
+	},
+	"date": "1335902400",
+	"defendant": {
+		"id": "54198a399b363d0200c4a1ed",
+		"value": "Олег Карасев"
+	},
+	"name": "Дело свидетелей защиты майора Матвеева",
+	"penalLabor": "",
+	"penalty": "30 тыс. рублей",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "541bf9052ed8a0020021bae7"
+	},
+	"court": {
+		"id": "541bf73c2ed8a0020021bae3",
+		"value": "Фрунзенский районный суд Владивостока"
+	},
+	"date": "1355860800",
+	"penalty": "10 тыс. рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "54198a399b363d0200c4a1f0",
+		"value": "Дело свидетелей защиты майора Матвеева"
+	},
+	"defendant": {
+		"id": "541bf9052ed8a0020021bae4",
+		"value": "Андрей Иванов"
+	},
+	"name": "Дело свидетелей защиты майора Матвеева"
+},
+{
+	"_id": {
+		"$oid": "541c9a660ace7d0200a33dd4"
+	},
+	"court": {
+		"id": "540364f332ba110200d6180f",
+		"value": "Выборгский районный суд г. Санкт-Петербурга"
+	},
+	"date": "1356638400",
+	"penalty": "200 тысяч рублей, но за истечением срока давности был освобожден от наказания.",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541c9a660ace7d0200a33dd1",
+		"value": "Алексей  Марочкин "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541c9f5a0ace7d0200a33dd8"
+	},
+	"court": {
+		"id": "540364f332ba110200d6180f",
+		"value": "Выборгский районный суд г. Санкт-Петербурга"
+	},
+	"date": "1356638400",
+	"penalty": "200 тысяч рублей, но за истечением срока давности был освобожден от наказания.",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541c9f5a0ace7d0200a33dd5",
+		"value": "Андрей  Песоцкий "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541cc9ad540bd602008d4e5b"
+	},
+	"court": {
+		"id": "540364f332ba110200d6180f",
+		"value": "Выборгский районный суд г. Санкт-Петербурга"
+	},
+	"date": "1356638400",
+	"penalty": "150 тысяч рублей, но за истечением срока давности был освобожден от наказания.",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541cc9ad540bd602008d4e58",
+		"value": "Александр  Яшин "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541ccba0540bd602008d4e5f"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541ccba0540bd602008d4e5c",
+		"value": "Владислав  Ивахник "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541ccf03540bd602008d4e63"
+	},
+	"court": {
+		"id": "540364f332ba110200d6180f",
+		"value": "Выборгский районный суд г. Санкт-Петербурга"
+	},
+	"date": "1356638400",
+	"penalty": "150 тысяч рублей, но за истечением срока давности был освобожден от наказания.",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541ccf03540bd602008d4e60",
+		"value": "Андрей  Милюк "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541cd176540bd602008d4e67"
+	},
+	"court": {
+		"id": "540364f332ba110200d6180f",
+		"value": "Выборгский районный суд г. Санкт-Петербурга"
+	},
+	"date": "1356638400",
+	"penalty": "150 тысяч рублей, но за истечением срока давности был освобожден от наказания.",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541cd176540bd602008d4e64",
+		"value": " Равиль  Баширов"
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541cf4bd25193802004841b0"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541cf4bd25193802004841ad",
+		"value": "Алексей  Зенцов "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541cf76325193802004841b4"
+	},
+	"court": {
+		"id": "540364f332ba110200d6180f",
+		"value": "Выборгский районный суд г. Санкт-Петербурга"
+	},
+	"date": "1356638400",
+	"penalty": "150 тысяч рублей, но за истечением срока давности был освобожден от наказания.",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541cf76325193802004841b1",
+		"value": "Роман  Хренов "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541cfdc325193802004841b8"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541cfdc325193802004841b5",
+		"value": "Вадим  Мамедов "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541d008e25193802004841bc"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541d008e25193802004841b9",
+		"value": " Олег  Петров"
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541d080325193802004841c0"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"defendant": {
+		"id": "541d080325193802004841bd",
+		"value": "Игорь  Бойков "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати"
+},
+{
+	"_id": {
+		"$oid": "541dd2097cf3f40200dbb338"
+	},
+	"court": {
+		"id": "541dd1f27cf3f40200dbb333",
+		"value": "Петровск-Забайкальский городской суд"
+	},
+	"date": "1398196800",
+	"penalty": "20 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Натальи Филоновой",
+	"case": {
+		"id": "541dd2097cf3f40200dbb337",
+		"value": "Дело Натальи Филоновой"
+	},
+	"defendant": {
+		"id": "541dd2097cf3f40200dbb334",
+		"value": "Наталья Филонова"
+	}
+},
+{
+	"_id": {
+		"$oid": "541f37741c50a6020038d7e4"
+	},
+	"case": {
+		"id": "541f37741c50a6020038d7e3",
+		"value": "Дело о сожжении флага"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "541f37741c50a6020038d7e0",
+		"value": "Дмитрий Ремизов"
+	},
+	"name": "Дело о сожжении флага",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "542003a29af3a10200a114ea"
+	},
+	"case": {
+		"id": "542003a29af3a10200a114e9",
+		"value": "Дело о заборе дачи Ткачева"
+	},
+	"court": {
+		"id": "5422a1b0038cc802007b5e72",
+		"value": "Туапсинский районный суд"
+	},
+	"date": "",
+	"defendant": {
+		"id": "542003a29af3a10200a114e5",
+		"value": "Сурен Газарян"
+	},
+	"name": "Дело о заборе дачи Ткачева",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "3 года",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5421f692e48430020025efd7"
+	},
+	"case": {
+		"id": "5421f692e48430020025efd6",
+		"value": "Дело о вымогательстве в Ростовской области"
+	},
+	"court": {
+		"id": "5450e49482a9870200c6bf3c",
+		"value": "Кущевский районный суд Краснодарского края"
+	},
+	"date": "1414526400",
+	"defendant": {
+		"id": "5421f692e48430020025efd3",
+		"value": "Александр Толмачев"
+	},
+	"name": "Дело о вымогательстве в Ростовской области",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "девять лет",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5425f051cfd5c302002491e5"
+	},
+	"case": {
+		"id": "5425f051cfd5c302002491e4",
+		"value": "Дело об убийстве российских журналистов на территории Украины"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "5425f051cfd5c302002491e1",
+		"value": "Надежда Савченко"
+	},
+	"name": "Дело об убийстве российских журналистов на территории Украины",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "542746c69c90c20200a182cd"
+	},
+	"court": {
+		"id": "53ff5046528de0020082710f",
+		"value": "Центральный районный суд г. Комсомольска-на-Амуре"
+	},
+	"date": "1367956800",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "один год шесть месяцев лишения свободы",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	],
+	"name": "Дело Другой России в Комсомольске-на-Амуре",
+	"case": {
+		"id": "542746c69c90c20200a182cc",
+		"value": "Дело Другой России в Комсомольске-на-Амуре"
+	},
+	"defendant": {
+		"id": "542746c69c90c20200a182c8",
+		"value": "Светлана Кузнецова"
+	}
+},
+{
+	"_id": {
+		"$oid": "542b21b1d0b47302006a244a"
+	},
+	"court": {
+		"id": "542b216ed0b47302006a2445",
+		"value": "Северо-Кавказский окружной военный суд"
+	},
+	"date": "1198699200",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "семнадцать лет лишения свободы",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	],
+	"name": "Дело Аракчеева и Худякова",
+	"case": {
+		"id": "542b21b1d0b47302006a2449",
+		"value": "Дело Аракчеева и Худякова"
+	},
+	"defendant": {
+		"id": "542b21b1d0b47302006a2446",
+		"value": "Евгений Худяков"
+	}
+},
+{
+	"_id": {
+		"$oid": "542de077e62bcd0200786e48"
+	},
+	"court": {
+		"id": "542de019e62bcd0200786e43",
+		"value": "Кузьминский районный суд Москвы"
+	},
+	"date": "1213732800",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "три года шесть месяцев",
+			"periodType": {
+				"id": "5332fd12fc624c8d15000009",
+				"value": "колония-поселение"
+			}
+		}
+	],
+	"name": "Дело Махмутовой о мошенничестве и применении насилия",
+	"case": {
+		"id": "542de077e62bcd0200786e47",
+		"value": "Дело Махмутовой о мошенничестве и применении насилия"
+	},
+	"defendant": {
+		"id": "542de077e62bcd0200786e44",
+		"value": "Айгуль Махмутова"
+	}
+},
+{
+	"_id": {
+		"$oid": "542de1a3e62bcd0200786e4d"
+	},
+	"court": {
+		"id": "542de019e62bcd0200786e43",
+		"value": "Кузьминский районный суд Москвы"
+	},
+	"date": "1220472000",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "пять лет шесть месяцев",
+			"periodType": {
+				"id": "5332fd12fc624c8d15000009",
+				"value": "колония-поселение"
+			}
+		}
+	],
+	"defendant": {
+		"id": "542de077e62bcd0200786e44",
+		"value": "Айгуль Махмутова"
+	},
+	"name": "Дело Махмутовой о вымогательстве и оскорблении",
+	"case": {
+		"id": "542de1a3e62bcd0200786e4c",
+		"value": "Дело Махмутовой о вымогательстве и оскорблении"
+	}
+},
+{
+	"_id": {
+		"$oid": "542f40ff88a746020000e2ee"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Шимкевича о незаконном предпринимательстве",
+	"case": {
+		"id": "542f40ff88a746020000e2ed",
+		"value": "Дело Шимкевича о незаконном предпринимательстве"
+	},
+	"defendant": {
+		"id": "542f40ff88a746020000e2ea",
+		"value": "Сергей Шимкевич"
+	}
+},
+{
+	"_id": {
+		"$oid": "542f45f088a746020000e2f5"
+	},
+	"court": {
+		"id": "53e543e1ce9a2502002ca154",
+		"value": "Московский городской суд"
+	},
+	"date": "1277668800",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "одиннадцать лет",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	],
+	"defendant": {
+		"id": "542f40ff88a746020000e2ea",
+		"value": "Сергей Шимкевич"
+	},
+	"name": "Дело Шимкевича о растрате, легализации и присвоении средств",
+	"case": {
+		"id": "542f45f088a746020000e2f4",
+		"value": "Дело Шимкевича о растрате, легализации и присвоении средств"
+	}
+},
+{
+	"_id": {
+		"$oid": "542f480a88a746020000e2fd"
+	},
+	"court": {
+		"id": "542f475588a746020000e2f9",
+		"value": "Дорогомиловский районный суд Москвы"
+	},
+	"date": "1303761600",
+	"penalty": "один миллион рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "тринадцать лет",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	],
+	"defendant": {
+		"id": "542f40ff88a746020000e2ea",
+		"value": "Сергей Шимкевич"
+	},
+	"name": "Дело Шимкевича о хищении",
+	"case": {
+		"id": "542f480a88a746020000e2fc",
+		"value": "Дело Шимкевича о хищении"
+	}
+},
+{
+	"_id": {
+		"$oid": "54307e33e86cea0200282b1f"
+	},
+	"court": {
+		"id": "54307dd0e86cea0200282b19",
+		"value": " судебный участок №203 Центрального района Санкт-Петербурга"
+	},
+	"date": "1337112000",
+	"penalty": "десять тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Костенко об оскорблении полицейского",
+	"case": {
+		"id": "54307e33e86cea0200282b1e",
+		"value": "Дело Костенко об оскорблении полицейского"
+	},
+	"defendant": {
+		"id": "54307e33e86cea0200282b1a",
+		"value": "Филипп Костенко"
+	}
+},
+{
+	"_id": {
+		"$oid": "54307f59e86cea0200282b24"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"defendant": {
+		"id": "54307e33e86cea0200282b1a",
+		"value": "Филипп Костенко"
+	},
+	"name": "Дело Костенко о порче плаката",
+	"case": {
+		"id": "54307f59e86cea0200282b23",
+		"value": "Дело Костенко о порче плаката"
+	}
+},
+{
+	"_id": {
+		"$oid": "54371ac66c1bd702004d307c"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Шехтмана",
+	"case": {
+		"id": "54371ac66c1bd702004d307b",
+		"value": "Дело Шехтмана"
+	},
+	"defendant": {
+		"id": "54371ac66c1bd702004d3078",
+		"value": "Павел Шехтман"
+	}
+},
+{
+	"_id": {
+		"$oid": "54557e4759961b02004cb471"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело о федерализации Кубани",
+	"case": {
+		"id": "54557e4759961b02004cb470",
+		"value": "Дело о федерализации Кубани"
+	},
+	"defendant": {
+		"id": "54557e4759961b02004cb46c",
+		"value": "Дарья Полюдова"
+	}
+},
+{
+	"_id": {
+		"$oid": "5471eb1c7be9ab0200ebfd0e"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Ольги Зелениной",
+	"case": {
+		"id": "5471eb1c7be9ab0200ebfd0d",
+		"value": "Дело Ольги Зелениной"
+	},
+	"defendant": {
+		"id": "5471eb1c7be9ab0200ebfd0a",
+		"value": "Ольга Зеленина"
+	}
+},
+{
+	"_id": {
+		"$oid": "5471f9d37be9ab0200ebfd17"
+	},
+	"court": {
+		"id": "5471f7f87be9ab0200ebfd11",
+		"value": "судебный участок № 2 Центрального судебного района Тюмени"
+	},
+	"date": "1300046400",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "два года",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	],
+	"name": "Дело Андрея Кутузова",
+	"case": {
+		"id": "5471f9d37be9ab0200ebfd16",
+		"value": "Дело Андрея Кутузова"
+	},
+	"defendant": {
+		"id": "5471f9d37be9ab0200ebfd12",
+		"value": "Андрей Кутузов"
+	}
+},
+{
+	"_id": {
+		"$oid": "547200f27be9ab0200ebfd21"
+	},
+	"case": {
+		"id": "547200f27be9ab0200ebfd20",
+		"value": "Нижегородское дело"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "547200f27be9ab0200ebfd1c",
+		"value": "Артем Быстров"
+	},
+	"name": "Нижегородское дело",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "547208b87be9ab0200ebfd28"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "547200f27be9ab0200ebfd20",
+		"value": "Нижегородское дело"
+	},
+	"court": {
+		"id": "547208417be9ab0200ebfd23",
+		"value": "Нижегородский районный суд Нижегородской области"
+	},
+	"date": "1388088000",
+	"defendant": {
+		"id": "547208b77be9ab0200ebfd24",
+		"value": "Павел Кривоносов"
+	},
+	"name": "Нижегородское дело",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "547213757be9ab0200ebfd2e"
+	},
+	"amnesty": true,
+	"case": {
+		"id": "547200f27be9ab0200ebfd20",
+		"value": "Нижегородское дело"
+	},
+	"court": {
+		"id": "547208417be9ab0200ebfd23",
+		"value": "Нижегородский районный суд Нижегородской области"
+	},
+	"date": "1388088000",
+	"defendant": {
+		"id": "547213757be9ab0200ebfd2a",
+		"value": "Олег Гембарук"
+	},
+	"name": "Нижегородское дело",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5472172d7be9ab0200ebfd33"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "547200f27be9ab0200ebfd20",
+		"value": "Нижегородское дело"
+	},
+	"defendant": {
+		"id": "5472172c7be9ab0200ebfd2f",
+		"value": "Альберт Гайнутдинов"
+	},
+	"name": "Нижегородское дело"
+},
+{
+	"_id": {
+		"$oid": "54721aba7be9ab0200ebfd38"
+	},
+	"court": {
+		"id": "547208417be9ab0200ebfd23",
+		"value": "Нижегородский районный суд Нижегородской области"
+	},
+	"date": "1388088000",
+	"amnesty": true,
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "547200f27be9ab0200ebfd20",
+		"value": "Нижегородское дело"
+	},
+	"defendant": {
+		"id": "54721aba7be9ab0200ebfd34",
+		"value": "Дмитрий Колесов"
+	},
+	"name": "Нижегородское дело"
+},
+{
+	"_id": {
+		"$oid": "54726cd48e7237020049b8d3"
+	},
+	"case": {
+		"id": "54726cd48e7237020049b8d2",
+		"value": "Дело Николаенко об экстремизме"
+	},
+	"court": {
+		"id": "54726ac88e7237020049b8cc",
+		"value": "Беловский районный суд Кемеровской области"
+	},
+	"date": "1258401600",
+	"defendant": {
+		"id": "54726cd48e7237020049b8ce",
+		"value": "Александр Николаенко"
+	},
+	"name": "Дело Николаенко об экстремизме",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "два года шесть месяцев",
+			"periodType": {
+				"id": "5332fd29fc624c8d1500000b",
+				"value": "колония строго режима"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "547279da8e7237020049b8da"
+	},
+	"court": {
+		"id": "547279678e7237020049b8d6",
+		"value": "судебный участок №3 Центрального района Новокузнецка"
+	},
+	"date": "1355947200",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"defendant": {
+		"id": "54726cd48e7237020049b8ce",
+		"value": "Александр Николаенко"
+	},
+	"name": "Дело Николаенко об оскорблении",
+	"case": {
+		"id": "547279da8e7237020049b8d9",
+		"value": "Дело Николаенко об оскорблении"
+	}
+},
+{
+	"_id": {
+		"$oid": "5472e8daa9f4950200333da4"
+	},
+	"court": null,
+	"date": "1399233600",
+	"penalty": "",
+	"penalLabor": "",
+	"penalLaborOn": true,
+	"periods": [
+		{
+			"period": "шесть месяцев",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	],
+	"defendant": {
+		"id": "54726cd48e7237020049b8ce",
+		"value": "Александр Николаенко"
+	},
+	"name": "Дело Николаенко об оскорблении Тулеева",
+	"case": {
+		"id": "5472e8daa9f4950200333da3",
+		"value": "Дело Николаенко об оскорблении Тулеева"
+	}
+},
+{
+	"_id": {
+		"$oid": "547305f6a9f4950200333dab"
+	},
+	"case": {
+		"id": "547305f6a9f4950200333daa",
+		"value": "Дело Станислава Позднякова"
+	},
+	"court": {
+		"id": "53e61b3737c8d30200bb2ae8",
+		"value": "Тверской районный суд Москвы"
+	},
+	"date": "1363122000",
+	"defendant": {
+		"id": "547305f6a9f4950200333da7",
+		"value": "Станислав Поздняков"
+	},
+	"name": "Дело Станислава Позднякова",
+	"penalLabor": "",
+	"penalLaborOn": false,
+	"penalty": "",
+	"penaltyOn": false,
+	"periods": {
+		"0": {
+			"period": "два года",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54730f00a9f4950200333db3"
+	},
+	"court": {
+		"id": "54730da8a9f4950200333dae",
+		"value": "судебный участок №3 города Юрги Кемеровской области"
+	},
+	"date": "1396987200",
+	"penalty": "",
+	"penalLabor": "",
+	"penalLaborOn": true,
+	"periods": [
+		{
+			"period": "11 месяцев",
+			"periodType": null
+		}
+	],
+	"name": "Дело Шипилова об оскорблении Тулеева и Зауэрвайн",
+	"case": {
+		"id": "54730f00a9f4950200333db2",
+		"value": "Дело Шипилова об оскорблении Тулеева и Зауэрвайн"
+	},
+	"defendant": {
+		"id": "54730f00a9f4950200333daf",
+		"value": "Дмитрий Шипилов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5473101da9f4950200333db8"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"defendant": {
+		"id": "54730f00a9f4950200333daf",
+		"value": "Дмитрий Шипилов"
+	},
+	"name": "Дело Шипилова об оскорблении Тулеева",
+	"case": {
+		"id": "5473101da9f4950200333db7",
+		"value": "Дело Шипилова об оскорблении Тулеева"
+	}
+},
+{
+	"_id": {
+		"$oid": "54733be6683b1d0200da1e29"
+	},
+	"case": {
+		"id": "54733be6683b1d0200da1e28",
+		"value": "Дело газеты «Взятка»"
+	},
+	"court": {
+		"id": "54733aab683b1d0200da1e23",
+		"value": "Моргаушский районный суд Чувашии"
+	},
+	"date": "1381266000",
+	"defendant": {
+		"id": "54733be6683b1d0200da1e24",
+		"value": "Илья (Илле) Иванов"
+	},
+	"name": "Дело газеты «Взятка»",
+	"penalLabor": "",
+	"penalLaborOn": true,
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "300 часов",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5473494f683b1d0200da1e30"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело казанских коммунистов",
+	"case": {
+		"id": "5473494f683b1d0200da1e2f",
+		"value": "Дело казанских коммунистов"
+	},
+	"defendant": {
+		"id": "5473494f683b1d0200da1e2b",
+		"value": "Ленар Гафиатуллин"
+	}
+},
+{
+	"_id": {
+		"$oid": "54734dd7683b1d0200da1e36"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5473494f683b1d0200da1e2f",
+		"value": "Дело казанских коммунистов"
+	},
+	"defendant": {
+		"id": "54734dd7683b1d0200da1e32",
+		"value": "Александр Киселев"
+	},
+	"name": "Дело казанских коммунистов"
+},
+{
+	"_id": {
+		"$oid": "54735d18683b1d0200da1e3f"
+	},
+	"case": {
+		"id": "54735d18683b1d0200da1e3e",
+		"value": "Дело Веры Лаврешиной"
+	},
+	"court": {
+		"id": "54735bc1683b1d0200da1e3a",
+		"value": "Московский районный суд Твери"
+	},
+	"date": "1391893200",
+	"defendant": {
+		"id": "54735d18683b1d0200da1e3b",
+		"value": "Вера Лаврешина"
+	},
+	"name": "Дело Веры Лаврешиной",
+	"penalLabor": "",
+	"penalLaborOn": true,
+	"penalty": "30 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "547362dd683b1d0200da1e47"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Бориса Батыя",
+	"case": {
+		"id": "547362dd683b1d0200da1e46",
+		"value": "Дело Бориса Батыя"
+	},
+	"defendant": {
+		"id": "547362dd683b1d0200da1e43",
+		"value": "Борис Батый"
+	}
+},
+{
+	"_id": {
+		"$oid": "54738104683b1d0200da1e4d"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело барнаульских анархистов",
+	"case": {
+		"id": "54738104683b1d0200da1e4c",
+		"value": "Дело барнаульских анархистов"
+	},
+	"defendant": {
+		"id": "54738104683b1d0200da1e48",
+		"value": "Виталий Леонов"
+	}
+},
+{
+	"_id": {
+		"$oid": "547389c7683b1d0200da1e52"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "54738104683b1d0200da1e4c",
+		"value": "Дело барнаульских анархистов"
+	},
+	"defendant": {
+		"id": "547389c6683b1d0200da1e4e",
+		"value": "Сергей Сандин"
+	},
+	"name": "Дело барнаульских анархистов"
+},
+{
+	"_id": {
+		"$oid": "54738b2a683b1d0200da1e57"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "54738104683b1d0200da1e4c",
+		"value": "Дело барнаульских анархистов"
+	},
+	"defendant": {
+		"id": "54738b28683b1d0200da1e53",
+		"value": "Даниил Малышкин"
+	},
+	"name": "Дело барнаульских анархистов"
+},
+{
+	"_id": {
+		"$oid": "5473a315af5b5802009523a3"
+	},
+	"court": {
+		"id": "5473a22daf5b58020095239e",
+		"value": "судебный участок № 363 района Хамовники"
+	},
+	"date": "1307995200",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Олега Орлова",
+	"case": {
+		"id": "5473a315af5b5802009523a2",
+		"value": "Дело Олега Орлова"
+	},
+	"defendant": {
+		"id": "5473a315af5b58020095239f",
+		"value": "Олег Орлов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5473a8faaf5b5802009523aa"
+	},
+	"case": {
+		"id": "5473a8faaf5b5802009523a9",
+		"value": "Дело Левого фронта в Марий Эл"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "5473a8faaf5b5802009523a5",
+		"value": "Андрей Свистунов"
+	},
+	"name": "Дело Левого фронта в Марий Эл",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5473ab68af5b5802009523b2"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Павла Толмачева",
+	"case": {
+		"id": "5473ab68af5b5802009523b1",
+		"value": "Дело Павла Толмачева"
+	},
+	"defendant": {
+		"id": "5473ab68af5b5802009523ae",
+		"value": "Павел Толмачев"
+	}
+},
+{
+	"_id": {
+		"$oid": "5473c321af5b5802009523b8"
+	},
+	"court": {
+		"id": "53e61b3737c8d30200bb2ae8",
+		"value": "Тверской районный суд Москвы"
+	},
+	"date": "1322424000",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "один год шесть месяцев",
+			"periodType": {
+				"id": "5332fd12fc624c8d15000009",
+				"value": "колония-поселение"
+			}
+		}
+	],
+	"name": "Дело Григория Торбеева",
+	"case": {
+		"id": "5473c321af5b5802009523b7",
+		"value": "Дело Григория Торбеева"
+	},
+	"defendant": {
+		"id": "5473c321af5b5802009523b4",
+		"value": "Григорий Торбеев"
+	}
+},
+{
+	"_id": {
+		"$oid": "5473d0adaf5b5802009523c0"
+	},
+	"court": {
+		"id": "5473cc57af5b5802009523bb",
+		"value": "Дзержинский районный суд Новосибирска"
+	},
+	"date": "1268856000",
+	"penalty": "20 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Лоскутова о хранении наркотиков",
+	"case": {
+		"id": "5473d0adaf5b5802009523bf",
+		"value": "Дело Лоскутова о хранении наркотиков"
+	},
+	"defendant": {
+		"id": "5473d0adaf5b5802009523bc",
+		"value": "Артем Лоскутов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5473d873af5b5802009523c5"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"defendant": {
+		"id": "5473d0adaf5b5802009523bc",
+		"value": "Артем Лоскутов"
+	},
+	"name": "Дело Лоскутова об оскорблении",
+	"case": {
+		"id": "5473d872af5b5802009523c4",
+		"value": "Дело Лоскутова об оскорблении"
+	}
+},
+{
+	"_id": {
+		"$oid": "54746ae49d11aa0200b8ed50"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Максима Конобеевских",
+	"case": {
+		"id": "54746ae49d11aa0200b8ed4f",
+		"value": "Дело Максима Конобеевских"
+	},
+	"defendant": {
+		"id": "54746ae49d11aa0200b8ed4c",
+		"value": "Максим Конобеевских"
+	}
+},
+{
+	"_id": {
+		"$oid": "547472279d11aa0200b8ed5a"
+	},
+	"court": {
+		"id": "547471c79d11aa0200b8ed55",
+		"value": "Ворошиловский районный суд Волгограда"
+	},
+	"date": "1310328000",
+	"penalty": "",
+	"penalLabor": "160 часов",
+	"penalLaborOn": true,
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Игоря Нагавкина о краже",
+	"case": {
+		"id": "547472269d11aa0200b8ed59",
+		"value": "Дело Игоря Нагавкина о краже"
+	},
+	"defendant": {
+		"id": "547472259d11aa0200b8ed56",
+		"value": "Игорь Нагавкин"
+	}
+},
+{
+	"_id": {
+		"$oid": "547495eb12a3410200acc234"
+	},
+	"case": {
+		"id": "547495eb12a3410200acc233",
+		"value": "Дело Павленского"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "547495eb12a3410200acc230",
+		"value": "Петр Павленский"
+	},
+	"name": "Дело Павленского",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54749e7212a3410200acc23a"
+	},
+	"court": {
+		"id": "54749e2512a3410200acc235",
+		"value": "мировой суд Октябрьского района Новосибирска"
+	},
+	"date": "1369598400",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "один год",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	],
+	"name": "Дело новосибирских имамов",
+	"case": {
+		"id": "54749e7212a3410200acc239",
+		"value": "Дело новосибирских имамов"
+	},
+	"defendant": {
+		"id": "54749e7212a3410200acc236",
+		"value": "Ильхом Меражов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5474a0fd12a3410200acc23e"
+	},
+	"court": {
+		"id": "54749e2512a3410200acc235",
+		"value": "мировой суд Октябрьского района Новосибирска"
+	},
+	"date": "1369598400",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "один год",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	],
+	"case": {
+		"id": "54749e7212a3410200acc239",
+		"value": "Дело новосибирских имамов"
+	},
+	"defendant": {
+		"id": "5474a0fd12a3410200acc23b",
+		"value": "Камиль Одилов"
+	},
+	"name": "Дело новосибирских имамов"
+},
+{
+	"_id": {
+		"$oid": "5475040e6318fb0200f1776e"
+	},
+	"court": {
+		"id": "5475038e6318fb0200f17769",
+		"value": "мировой суд Онгудайского района Республики Алтай"
+	},
+	"date": "1394049600",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело алтайских имамов",
+	"case": {
+		"id": "5475040e6318fb0200f1776d",
+		"value": "Дело алтайских имамов"
+	},
+	"defendant": {
+		"id": "5475040e6318fb0200f1776a",
+		"value": "Сержан Сватов"
+	}
+},
+{
+	"_id": {
+		"$oid": "547508226318fb0200f17775"
+	},
+	"court": {
+		"id": "547507a06318fb0200f17770",
+		"value": "Майкопский городской суд"
+	},
+	"date": "1400529600",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Василия Пурденко",
+	"case": {
+		"id": "547508226318fb0200f17774",
+		"value": "Дело Василия Пурденко"
+	},
+	"defendant": {
+		"id": "547508226318fb0200f17771",
+		"value": "Василий Пурденко"
+	}
+},
+{
+	"_id": {
+		"$oid": "547512046318fb0200f1777b"
+	},
+	"court": {
+		"id": "53f8ac3cbecd00020047a1ff",
+		"value": "Октябрьский районный суд Мурманска"
+	},
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело bloger51.com",
+	"case": {
+		"id": "547512046318fb0200f1777a",
+		"value": "Дело bloger51.com"
+	},
+	"defendant": {
+		"id": "547512046318fb0200f17777",
+		"value": "Александр Серебряников"
+	}
+},
+{
+	"_id": {
+		"$oid": "547515376318fb0200f17781"
+	},
+	"court": {
+		"id": "54733aab683b1d0200da1e23",
+		"value": "Моргаушский районный суд Чувашии"
+	},
+	"date": "1415217600",
+	"penalty": "",
+	"penalLabor": "400 часов",
+	"penalLaborOn": true,
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Эдуарда Мочалова",
+	"case": {
+		"id": "547515376318fb0200f17780",
+		"value": "Дело Эдуарда Мочалова"
+	},
+	"defendant": {
+		"id": "547515376318fb0200f1777d",
+		"value": "Эдуард Мочалов"
+	}
+},
+{
+	"_id": {
+		"$oid": "547612f113f17f02008421b6"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "547612f113f17f02008421b2",
+		"value": "Николай Троцюк"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "100 тысяч",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "пять лет",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "547619c813f17f02008421ba"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "547619c713f17f02008421b7",
+		"value": "Александр Скворцов"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "пять лет три месяца",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54761ba013f17f02008421bf"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1403985600",
+	"defendant": {
+		"id": "54761ba013f17f02008421bc",
+		"value": "Алексей Коптев"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "пять лет",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54761fdb13f17f02008421c3"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1403985600",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "пять лет три месяца",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	],
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"defendant": {
+		"id": "54761fdb13f17f02008421c0",
+		"value": "Юрий Баклушин"
+	},
+	"name": "Дело шестнадцати иеговистов"
+},
+{
+	"_id": {
+		"$oid": "547627cb13f17f02008421c7"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1403985600",
+	"penalty": "50 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"defendant": {
+		"id": "547627cb13f17f02008421c4",
+		"value": "Андрей Гончаров"
+	},
+	"name": "Дело шестнадцати иеговистов"
+},
+{
+	"_id": {
+		"$oid": "54762e9c13f17f02008421cb"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"penalty": "60 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"defendant": {
+		"id": "54762e9c13f17f02008421c8",
+		"value": "Карен Минасян"
+	},
+	"name": "Дело шестнадцати иеговистов"
+},
+{
+	"_id": {
+		"$oid": "547644684a31c1020018f072"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "547644684a31c1020018f06f",
+		"value": "Сергей Троцюк"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "60 тысяч рублей",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "547647644a31c1020018f076"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "547647644a31c1020018f073",
+		"value": "Роман Волощук"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5476493a4a31c1020018f07a"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "5476493a4a31c1020018f077",
+		"value": "Оксана Гончарова"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "547649c64a31c1020018f07e"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "547649c34a31c1020018f07b",
+		"value": "Вячеслав Щекалев"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54764a304a31c1020018f082"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "54764a304a31c1020018f07f",
+		"value": "Кирилл Четвериков"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54764af64a31c1020018f086"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "54764af64a31c1020018f083",
+		"value": "Владимир Кожухов"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54764bbd4a31c1020018f08a"
+	},
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"defendant": {
+		"id": "54764bbd4a31c1020018f087",
+		"value": "Владислав Кругликов"
+	},
+	"name": "Дело шестнадцати иеговистов",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "54764d654a31c1020018f08e"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"defendant": {
+		"id": "54764d654a31c1020018f08b",
+		"value": "Татьяна Кравченко"
+	},
+	"name": "Дело шестнадцати иеговистов"
+},
+{
+	"_id": {
+		"$oid": "54764e874a31c1020018f093"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"defendant": {
+		"id": "54764e874a31c1020018f090",
+		"value": "Владимир Моисеенко"
+	},
+	"name": "Дело шестнадцати иеговистов"
+},
+{
+	"_id": {
+		"$oid": "5476503a4a31c1020018f097"
+	},
+	"court": {
+		"id": "5476108713f17f02008421b1",
+		"value": "Таганрогский городской суд"
+	},
+	"date": "1406577600",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "547612f113f17f02008421b5",
+		"value": "Дело шестнадцати иеговистов"
+	},
+	"defendant": {
+		"id": "5476503a4a31c1020018f094",
+		"value": "Кирилл Кравченко"
+	},
+	"name": "Дело шестнадцати иеговистов"
+},
+{
+	"_id": {
+		"$oid": "5477c8aa57d91e0200f21b59"
+	},
+	"court": {
+		"id": "5477c81557d91e0200f21b54",
+		"value": "Октябрьский районный суд Ростова-на-Дону"
+	},
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Нурджулар в Ростове",
+	"case": {
+		"id": "5477c8aa57d91e0200f21b58",
+		"value": "Дело Нурджулар в Ростове"
+	},
+	"defendant": {
+		"id": "5477c8aa57d91e0200f21b55",
+		"value": "Гаджибек Исмаилов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5478a40b24f0440200656470"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело ульяновских нурсистов",
+	"case": {
+		"id": "5478a40b24f044020065646f",
+		"value": "Дело ульяновских нурсистов"
+	},
+	"defendant": {
+		"id": "5478a40b24f044020065646c",
+		"value": "Багир Казиханов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5478a81b24f0440200656474"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5478a40b24f044020065646f",
+		"value": "Дело ульяновских нурсистов"
+	},
+	"defendant": {
+		"id": "5478a81b24f0440200656471",
+		"value": "А. Мелентьев"
+	},
+	"name": "Дело ульяновских нурсистов"
+},
+{
+	"_id": {
+		"$oid": "5478a93924f0440200656479"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5478a40b24f044020065646f",
+		"value": "Дело ульяновских нурсистов"
+	},
+	"defendant": {
+		"id": "5478a93924f0440200656476",
+		"value": "С. Кудряшов"
+	},
+	"name": "Дело ульяновских нурсистов"
+},
+{
+	"_id": {
+		"$oid": "5478aaa524f044020065647d"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5478a40b24f044020065646f",
+		"value": "Дело ульяновских нурсистов"
+	},
+	"defendant": {
+		"id": "5478aaa524f044020065647a",
+		"value": "Ф. Аллахвердиев"
+	},
+	"name": "Дело ульяновских нурсистов"
+},
+{
+	"_id": {
+		"$oid": "547a0e9f99c8430200225207"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело магнитогорских профсоюзных активистов",
+	"case": {
+		"id": "547a0e9f99c8430200225206",
+		"value": "Дело магнитогорских профсоюзных активистов"
+	},
+	"defendant": {
+		"id": "547a0e9f99c8430200225203",
+		"value": "Андрей Романов"
+	}
+},
+{
+	"_id": {
+		"$oid": "547b25f212555e0200e3bec0"
+	},
+	"court": {
+		"id": "547b256012555e0200e3bebb",
+		"value": "Октябрьский районный суд Архангельска"
+	},
+	"date": "1362081600",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Ивана Мосеева",
+	"case": {
+		"id": "547b25f212555e0200e3bebf",
+		"value": "Дело Ивана Мосеева"
+	},
+	"defendant": {
+		"id": "547b25f212555e0200e3bebc",
+		"value": "Иван Мосеев"
+	}
+},
+{
+	"_id": {
+		"$oid": "547efbb4fa1e8a0200c47343"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело \"Вечерней Тюмени\"",
+	"case": {
+		"id": "547efbb4fa1e8a0200c47342",
+		"value": "Дело \"Вечерней Тюмени\""
+	},
+	"defendant": {
+		"id": "547efbb4fa1e8a0200c4733f",
+		"value": "Владимир Ефимов"
+	}
+},
+{
+	"_id": {
+		"$oid": "54838fa916c0530200b45194"
+	},
+	"court": {
+		"id": "54838f5516c0530200b4518f",
+		"value": "Аргаяшский районный суд Челябинской области"
+	},
+	"date": "1335556800",
+	"penalty": "150 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Вильдара Якупова",
+	"case": {
+		"id": "54838fa916c0530200b45193",
+		"value": "Дело Вильдара Якупова"
+	},
+	"defendant": {
+		"id": "54838fa916c0530200b45190",
+		"value": "Вильдар Якупов"
+	}
+},
+{
+	"_id": {
+		"$oid": "5483957316c0530200b45198"
+	},
+	"court": {
+		"id": "5475038e6318fb0200f17769",
+		"value": "мировой суд Онгудайского района Республики Алтай"
+	},
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"case": {
+		"id": "5475040e6318fb0200f1776d",
+		"value": "Дело алтайских имамов"
+	},
+	"defendant": {
+		"id": "5483957316c0530200b45195",
+		"value": "Хайдар-Али Бугусынов"
+	},
+	"name": "Дело алтайских имамов"
+},
+{
+	"_id": {
+		"$oid": "5485d098ebeacf020076821e"
+	},
+	"court": {
+		"id": "5485d06cebeacf0200768219",
+		"value": "Первоуральский городской суд Свердловской области"
+	},
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Эльвиры Султанахметовой",
+	"case": {
+		"id": "5485d098ebeacf020076821d",
+		"value": "Дело Эльвиры Султанахметовой"
+	},
+	"defendant": {
+		"id": "5485d098ebeacf020076821a",
+		"value": "Эльвира Султанахметова"
+	}
+},
+{
+	"_id": {
+		"$oid": "548609a72950c702009daf25"
+	},
+	"court": {
+		"id": "5486090f2950c702009daf20",
+		"value": "Советский районный суд Казани"
+	},
+	"date": "1360872000",
+	"penalty": "100 тысяч рублей",
+	"penaltyOn": true,
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело \"Русского языка в школах Татарстана\"",
+	"case": {
+		"id": "548609a72950c702009daf24",
+		"value": "Дело \"Русского языка в школах Татарстана\""
+	},
+	"defendant": {
+		"id": "548609a72950c702009daf21",
+		"value": "Павел Хотулев"
+	}
+},
+{
+	"_id": {
+		"$oid": "5489e4aff9644b02000a47ca"
+	},
+	"case": {
+		"id": "5489e4aff9644b02000a47c9",
+		"value": ""
+	},
+	"court": {
+		"id": "5489e2c5f9644b02000a47c5",
+		"value": "судебный участок мирового судьи № 323 района Северное Медведково "
+	},
+	"date": "1296072000",
+	"defendant": {
+		"id": "5489e4aef9644b02000a47c6",
+		"value": "Николай  Авдюшенков "
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "один год, впоследствии отменен в связи с истечением срока давности",
+			"periodType": {
+				"id": "5332fcd6fc624c8d15000005",
+				"value": "условный"
+			}
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5489e79df9644b02000a47ce"
+	},
+	"case": {
+		"id": "5403a5ba2354fa020074a5ee",
+		"value": "Дело питерской \"Другой России\",  Дело двенадцати"
+	},
+	"court": null,
+	"date": "",
+	"defendant": {
+		"id": "5489e79df9644b02000a47cb",
+		"value": "Сергей Пороховой "
+	},
+	"name": "Дело питерской \"Другой России\",  Дело двенадцати",
+	"penalLabor": "",
+	"penalty": "",
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5489ed3af9644b02000a47d4"
+	},
+	"case": {
+		"id": "5489ed3af9644b02000a47d3",
+		"value": ""
+	},
+	"court": {
+		"id": "5489eb7df9644b02000a47cf",
+		"value": "Мировой судья судебного участка № 71 Центрального района Хабаровска "
+	},
+	"date": "1313006400",
+	"defendant": {
+		"id": "5489ed3af9644b02000a47d0",
+		"value": "Евгений  Волужев "
+	},
+	"name": "",
+	"penalLabor": "",
+	"penalty": "сто тысяч рублей, освобожден от наказания  в связи с истечением сроков давности привлечения �� уголовной ответственности",
+	"penaltyOn": true,
+	"periods": {
+		"0": {
+			"period": "",
+			"periodType": null
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "549ec65219c8af0200a77b2c"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело Валерия Бриниха",
+	"case": {
+		"id": "549ec65219c8af0200a77b2b",
+		"value": "Дело Валерия Бриниха"
+	},
+	"defendant": {
+		"id": "549ec65219c8af0200a77b28",
+		"value": "Валерий Бриних"
+	}
+},
+{
+	"_id": {
+		"$oid": "54a8221a60f3330200ce2c4d"
+	},
+	"court": null,
+	"date": "",
+	"penalty": "",
+	"penalLabor": "",
+	"periods": [
+		{
+			"period": "",
+			"periodType": null
+		}
+	],
+	"name": "Дело томского РОТ-Фронта",
+	"case": {
+		"id": "54a8221a60f3330200ce2c4c",
+		"value": "Дело томского РОТ-Фронта"
+	},
+	"defendant": {
+		"id": "54a8221a60f3330200ce2c49",
+		"value": "Егор Алексеев"
+	}
+}]
+

@@ -1,0 +1,276 @@
+[{
+	"_id": {
+		"$oid": "5332e022e5fb77fd0a000001"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "типы персоналий",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "5332f54ffc624c8d15000002"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "типы организаций",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "5332f68cfa1272090d000001"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "уголовный кодекс",
+	"description": "список статей УК РФ",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "5332fcbcfc624c8d15000004"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "типы сроков",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "53344566cc7ce30200000001"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "административный кодекс",
+	"description": "список статей КоАП РФ",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "53344c94cc7ce30200000002"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"description": "",
+	"name": "типы мероприятий",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "53344cf254b5cbb429000005"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "типы ходатайств",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "53344cf3cc7ce30200000003"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "тематики мероприятий",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "5334ceb98d64650200000001"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "типы протеста",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "5334cf288d64650200000002"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "типы нарушений",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "5334d14e8d64650200000003"
+	},
+	"counters": {
+		"events": 0,
+		"detentions": 0,
+		"offenses": 0,
+		"trials": 0
+	},
+	"name": "типы преследований",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "53361a4afc62a0ec67000001"
+	},
+	"counters": {},
+	"name": "test",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "53c9a5e7ef40ac0200000001"
+	},
+	"counters": {},
+	"description": "Сфера занятости преследуемого",
+	"name": "Сфера занятости",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "53cae825d520aa0200000001"
+	},
+	"counters": {},
+	"name": "Тематика преследования",
+	"description": "Тематическое деление преследований на различные группы",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "5467b2706261e70200000001"
+	},
+	"counters": {},
+	"name": "гражданства",
+	"description": "список гражданств",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "547ce0593d09790200000001"
+	},
+	"counters": {},
+	"name": "признание",
+	"description": "статусы наделяемые организациями",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "54a0504719f7ad0200000001"
+	},
+	"counters": {},
+	"name": "судебные решения",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "54a871a17fdd4c0200000001"
+	},
+	"counters": {},
+	"name": "типы работ",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "54a873047fdd4c0200000002"
+	},
+	"counters": {},
+	"name": "ограничения свободы",
+	"description": "",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+},
+{
+	"_id": {
+		"$oid": "54a98e77e5abd50200000001"
+	},
+	"counters": {},
+	"name": "другие решения",
+	"description": "решения суда помимо лишения свободы, работ, штрафов, запретов на профессию, ограничений свободы, компенсаций",
+	"created": {
+		"$oid": "53d90dcbdfd094aa084818ab"
+	}
+}]
+

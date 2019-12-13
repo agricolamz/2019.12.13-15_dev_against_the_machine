@@ -1,0 +1,43 @@
+[{
+	"_id": {
+		"$oid": "53bd331308cc72a304000001"
+	},
+	"counters": {},
+	"type": null,
+	"dateRange": {
+		"from": "Invalid date",
+		"to": "Invalid date"
+	},
+	"person": [
+		{
+			"id": "532daee07e3a0951e90001a4",
+			"value": "Бейлинсон Даниил"
+		}
+	],
+	"institution": null,
+	"official": [],
+	"description": "",
+	"name": "Бейлинсон Даниил  Invalid date"
+},
+{
+	"_id": {
+		"$oid": "53bd332b08cc72a304000002"
+	},
+	"counters": {},
+	"type": null,
+	"dateRange": {
+		"from": "Invalid date",
+		"to": "Invalid date"
+	},
+	"person": [
+		{
+			"id": "532daee07e3a0951e90001a4",
+			"value": "Бейлинсон Даниил"
+		}
+	],
+	"institution": null,
+	"official": [],
+	"description": "",
+	"name": "Бейлинсон Даниил  Invalid date"
+}]
+

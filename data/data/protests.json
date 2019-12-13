@@ -1,0 +1,19 @@
+[{
+	"_id": {
+		"$oid": "5337313e6a26eadb02000001"
+	},
+	"counters": {},
+	"persecution": {
+		"id": "5336cfbdfb0b5edb6e000001",
+		"value": "Бейлинсон Даниил 05.03.2014"
+	},
+	"defendant": {
+		"id": "532daee07e3a0951e90001a4",
+		"value": "Бейлинсон Даниил"
+	},
+	"type": null,
+	"dateRange": "1393790400",
+	"description": "",
+	"name": "Бейлинсон Даниил  NaN.NaN.0NaN"
+}]
+

@@ -1,0 +1,48 @@
+[{
+	"_id": {
+		"$oid": "535fd55072ea57020000000c"
+	},
+	"counters": {},
+	"criminalCase": {
+		"id": "535fce1bc9f5f00200000002",
+		"value": "Дело двенадцати"
+	},
+	"investigationStarted": "1336248000",
+	"investigationDepartment": {
+		"id": "535fd37b72ea570200000008",
+		"value": "Главное следственное управление СК РФ по Москве"
+	},
+	"investigators": [
+		{
+			"id": "535fd4fe72ea57020000000b",
+			"value": "Гуркин Сергей"
+		},
+		{
+			"id": "535fd40872ea570200000009",
+			"value": "Габдулин Рустам"
+		}
+	],
+	"deliveryDate": "1366920000",
+	"investigativeActions": {
+		"search": [
+			{
+				"date": "1338148800",
+				"description": ""
+			}
+		],
+		"interrogation": [
+			{
+				"date": "1338235200",
+				"description": ""
+			},
+			{
+				"date": "1353009600",
+				"description": ""
+			}
+		],
+		"expertise": []
+	},
+	"description": "",
+	"name": "Дело двенадцати 1336248000"
+}]
+
