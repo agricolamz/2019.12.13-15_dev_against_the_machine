@@ -1,0 +1,1496 @@
+
+###### Болотное дело
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Болотное дело') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Arctic Sunrise
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Arctic Sunrise') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### одиночные дела
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'одиночные дела') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Курова и Попова
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Курова и Попова') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело красноярских нурсистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело красноярских нурсистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дюртюлинское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дюртюлинское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о захвате приемной МИДа
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о захвате приемной МИДа') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Манежное дело
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Манежное дело') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Другой России в Комсомольске-на-Амуре
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Другой России в Комсомольске-на-Амуре') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Петербургское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Петербургское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело питерской "Другой России" (Дело двенадцати)
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело питерской "Другой России" (Дело двенадцати)') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Московское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Московское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Pussy Riot
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Pussy Riot') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о домашнем медресе в Набережных Челнах
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о домашнем медресе в Набережных Челнах') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Стратегии-31 в Мурманске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Стратегии-31 в Мурманске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело московских нацболов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело московских нацболов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о женском домашнем медресе в Набережных Челнах
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о женском домашнем медресе в Набережных Челнах') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело  Кировлеса
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело  Кировлеса') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о заборе дачи Ткачева
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о заборе дачи Ткачева') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Аракчеева и Худякова
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Аракчеева и Худякова') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Нижегородское дело
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Нижегородское дело') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело барнаульских анархистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело барнаульских анархистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело новосибирских нурсистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело новосибирских нурсистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Алтайское дело "Таблиги Джамаат"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Алтайское дело "Таблиги Джамаат"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Таганроге
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Таганроге') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело ульяновских нурсистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело ульяновских нурсистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Армии воли народа"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Армии воли народа"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Беспалова и Котожекова
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Беспалова и Котожекова') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе уфимское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе уфимское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело флага
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело флага') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело геленджикских правозащитников
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело геленджикских правозащитников') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Севастопольское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Севастопольское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Уфимское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Уфимское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о передаче Китаю сведений о "Булаве"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о передаче Китаю сведений о "Булаве"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Челябинское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Челябинское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о подрыве поезда «Грозный – Москва»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о подрыве поезда «Грозный – Москва»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Высотное дело
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Высотное дело') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о нападении на Нальчик
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о нападении на Нальчик') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело докеров
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело докеров') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе петербургское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе петербургское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Таблиги Джамаат" в Новосибирской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Таблиги Джамаат" в Новосибирской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело 26 февраля
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело 26 февраля') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Нурджулар в Красноярске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Нурджулар в Красноярске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело крымских террористов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело крымских террористов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Пивоварова и Никонорова
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Пивоварова и Никонорова') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело группы "Война"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело группы "Война"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Петропита"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Петропита"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело автопробегов "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело автопробегов "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Хизб ут-Тахрир" в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Хизб ут-Тахрир" в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело "Хизб ут-Тахрир" в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело "Хизб ут-Тахрир" в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Стерлитамакское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Стерлитамакское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе московское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе московское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Ялтинское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Ялтинское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело красноярских нурсистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело красноярских нурсистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Атаки"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Атаки"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело ЮКОСа
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело ЮКОСа') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе челябинское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе челябинское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Хизб ут-Тахрир" в Дагестане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Хизб ут-Тахрир" в Дагестане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело нурсистов в Амурской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело нурсистов в Амурской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Ахыр Заман"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Ахыр Заман"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело жительниц Альметьевска о причастности к "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело жительниц Альметьевска о причастности к "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Бахчисарайское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Бахчисарайское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье дело красноярских нурсистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье дело красноярских нурсистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье челябинское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье челябинское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Четвертое дело "Хизб ут-Тахрир" в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Четвертое дело "Хизб ут-Тахрир" в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Симферопольское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Симферопольское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье петербургское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье петербургское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье московское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье московское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Московское дело "Таблиги Джамаат"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Московское дело "Таблиги Джамаат"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Свидетелей Иеговы" в Сергиевом Посаде
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Свидетелей Иеговы" в Сергиевом Посаде') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело шести Свидетелей Иеговы
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело шести Свидетелей Иеговы') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело «Хизб ут-Тахрир» в Дагестане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело «Хизб ут-Тахрир» в Дагестане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело дагестанских нурсистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело дагестанских нурсистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело нурсистов в Башкортостане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело нурсистов в Башкортостане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Таблиги Джамаат" в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Таблиги Джамаат" в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о подготовке теракта в кинотеатре "Киргизия"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о подготовке теракта в кинотеатре "Киргизия"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Хизб ут-Тахрир" в Нижневартовске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Хизб ут-Тахрир" в Нижневартовске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Казанское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Казанское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе казанское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе казанское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Орле
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Орле') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Хизб ут-Тахрир" в Швеции
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Хизб ут-Тахрир" в Швеции') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело 26 марта
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело 26 марта') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело "Таблиги Джамаат" в Башкортостане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело "Таблиги Джамаат" в Башкортостане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Сибайское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Сибайское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье дело "Хизб ут-Тахрир" в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье дело "Хизб ут-Тахрир" в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Саентологической церкви Санкт-Петербурга
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Саентологической церкви Санкт-Петербурга') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело «Таблиги Джамаат» в Крыму
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело «Таблиги Джамаат» в Крыму') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе бахчисарайское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе бахчисарайское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Альметьевское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Альметьевское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе московское дело «Таблиги Джамаат»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе московское дело «Таблиги Джамаат»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело активистов «Антикоррупционного бюро»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело активистов «Антикоррупционного бюро»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело БАРС
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело БАРС') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе севастопольское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе севастопольское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Четвертое московское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Четвертое московское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело "Таблиги Джамаат" в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело "Таблиги Джамаат" в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о попытке поджога на комбинате
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о попытке поджога на комбинате') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело «Сети»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело «Сети»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Салаватское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Салаватское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело об акции 5 мая
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело об акции 5 мая') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Биробиджане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Биробиджане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Пятое дело «Хизб ут-Тахрир» в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Пятое дело «Хизб ут-Тахрир» в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Пятое челябинское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Пятое челябинское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Саратовской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Саратовской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Белгородской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Белгородской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Магаданской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Магаданской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Набережных Челнах
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Набережных Челнах') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело «Черного блока»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело «Черного блока»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о покушении на массовые беспорядки в Ростове-на-Дону
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о покушении на массовые беспорядки в Ростове-на-Дону') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Оренбурге
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Оренбурге') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Костроме
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Костроме') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Перми
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Перми') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Полярном
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Полярном') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы во Владивостоке
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы во Владивостоке') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Шуе
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Шуе') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Вилючинске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Вилючинске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Берёзовском
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Берёзовском') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Омске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Омске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Елизово
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Елизово') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Пензе
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Пензе') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело «Нового величия»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело «Нового величия»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело крымских диверсантов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело крымских диверсантов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье уфимское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье уфимское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело севастопольских диверсантов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело севастопольских диверсантов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело алуштинских вымогателей
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело алуштинских вымогателей') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело 12 июня в Петербурге
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело 12 июня в Петербурге') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело 12 июня в Москве
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело 12 июня в Москве') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о поджоге сена
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о поджоге сена') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело сторонников «Артподготовки» в Москве
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело сторонников «Артподготовки» в Москве') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело файзрахманистов
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело файзрахманистов') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело «Таблиги Джамаат» в Башкортостане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело «Таблиги Джамаат» в Башкортостане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Пермское дело «Свидетелей Иеговы»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Пермское дело «Свидетелей Иеговы»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Кировское дело «Свидетелей Иеговы»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Кировское дело «Свидетелей Иеговы»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Шестое дело «Хизб ут-Тахрир» в Татарстане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Шестое дело «Хизб ут-Тахрир» в Татарстане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Смоленской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Смоленской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Хабаровске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Хабаровске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело «Таблиги Джамаат» в Подмосковье
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело «Таблиги Джамаат» в Подмосковье') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Нефтекумске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Нефтекумске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Четвертое челябинское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Четвертое челябинское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Орле
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Орле') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Спасске-Дальнем
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Спасске-Дальнем') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Артема и Лии Милушкиных
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Артема и Лии Милушкиных') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### «Дело Веджие Кашка»
+
+```{r}
+for_timeline %>%
+  filter(persecution == '«Дело Веджие Кашка»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Благовещенске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Благовещенске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Саранске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Саранске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Красногвардейское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Красногвардейское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Низовкиной и Стецуры
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Низовкиной и Стецуры') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в ХМАО
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в ХМАО') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Ульяновске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Ульяновске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Ялте
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Ялте') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Лучегорске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Лучегорске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе кировское дело «Свидетелей Иеговы»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе кировское дело «Свидетелей Иеговы»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе симферопольское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе симферопольское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело украинских моряков
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело украинских моряков') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Порхове
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Порхове') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Абакане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Абакане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Карпинске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Карпинске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Красноярском крае
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Красноярском крае') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Новосибирске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Новосибирске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Ростове-на-Дону
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Ростове-на-Дону') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Волгограде
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Волгограде') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Северодвинске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Северодвинске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье дело Свидетелей Иеговы в Смоленской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье дело Свидетелей Иеговы в Смоленской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Дагестане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Дагестане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Третье дело Свидетелей Иеговы в Ростове-на-Дону
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Третье дело Свидетелей Иеговы в Ростове-на-Дону') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Уссурийске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Уссурийске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Алуштинское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Алуштинское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Калуге
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Калуге') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о протестах в Ингушетии
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о протестах в Ингушетии') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Брянской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Брянской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о просроченных конфетах в Крыму
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о просроченных конфетах в Крыму') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Нижегородской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Нижегородской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело 27 июля
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело 27 июля') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Новосибирске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Новосибирске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Кемерове
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Кемерове') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Карелии
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Карелии') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Хабаровске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Хабаровске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Тольяттинское дело «Хизб ут-Тахрир»
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Тольяттинское дело «Хизб ут-Тахрир»') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Биробиджане
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Биробиджане') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Нижегородской области
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Нижегородской области') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Подольске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Подольске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Красноярском крае
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Красноярском крае') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Сочи
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Сочи') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело о теракте в петербургском метро 3 апреля 2017 года
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело о теракте в петербургском метро 3 апреля 2017 года') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Благовещенске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Благовещенске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Дело Свидетелей Иеговы в Невельске
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Дело Свидетелей Иеговы в Невельске') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Второе дело Свидетелей Иеговы в Ростове-на-Дону
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Второе дело Свидетелей Иеговы в Ростове-на-Дону') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### Тюменское дело "Хизб ут-Тахрир"
+
+```{r}
+for_timeline %>%
+  filter(persecution == 'Тюменское дело "Хизб ут-Тахрир"') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```

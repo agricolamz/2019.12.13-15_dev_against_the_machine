@@ -1,0 +1,80 @@
+
+###### активист
+
+```{r}
+for_timeline %>%
+  filter(profession == 'активист') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### журналист
+
+```{r}
+for_timeline %>%
+  filter(profession == 'журналист') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### другое
+
+```{r}
+for_timeline %>%
+  filter(profession == 'другое') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### эколог
+
+```{r}
+for_timeline %>%
+  filter(profession == 'эколог') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### NA
+
+```{r}
+for_timeline %>%
+  filter(profession == 'NA') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### правозащитник
+
+```{r}
+for_timeline %>%
+  filter(profession == 'правозащитник') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### деятель искусства
+
+```{r}
+for_timeline %>%
+  filter(profession == 'деятель искусства') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### военнослужащий
+
+```{r}
+for_timeline %>%
+  filter(profession == 'военнослужащий') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### ученый
+
+```{r}
+for_timeline %>%
+  filter(profession == 'ученый') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```
+
+###### священнослужитель
+
+```{r}
+for_timeline %>%
+  filter(profession == 'священнослужитель') %>%
+timevis(showZoom = TRUE, fit = FALSE, height = 800)
+```

@@ -4,24 +4,92 @@ editor_options:
   chunk_output_type: console
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning = FALSE)
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning = FALSE, fig.width = 13, fig.height = 9)
+options(scipen = 999)
 library(tidyverse)
+theme_set(theme_bw()+theme(text = element_text(size = 16)))
 library(timevis)
-db <- read_csv("db.csv")
+library(lubridate)
+null2na <- function(x){ifelse(is.null(x), NA, x)}
+```
+
+```{r, cache=TRUE}
+## db creation
+persons <- jsonlite::read_json("data/persons.json")
+
+persons %>% 
+  tibble(db_id = 1:length(persons),
+         oid =   map(., "_id") %>% map_chr("$oid"),
+         firstname = map_chr(., "firstname"),
+         middlename = map_chr(., "middlename"),
+         surname = map_chr(., "surname"),
+         sex  = map(., "sex") %>% map(null2na) %>% map_chr(1),
+         dob = map(., "dob") %>% map("date") %>% map(null2na) %>% map_chr(1),
+         brief = map(., "brief") %>% map(null2na) %>% map_chr(1),
+         photo_url = map(., "photo") %>% map("file") %>% map("url") %>% map(null2na) %>% map_chr(1)) %>% 
+  select(-1) %>% 
+  mutate(dob = as_date(dob)) ->
+  persons_df
+
+persons_data <- jsonlite::read_json("data/persons-data.json")
+
+persons_data %>% 
+  tibble(oid =   map(., "_id") %>% map_chr("$oid"),
+         profession = map(., "profession") %>% map(null2na) %>% map_chr(1),
+         article = map(., "articles") %>% map_depth(1, function(x) paste(x, collapse = "; ")) %>% map(null2na) %>% map_chr(1),
+         badges = map(., "badges") %>% map_depth(1, function(x) paste(x, collapse = "; ")) %>% map(null2na) %>% map_chr(1),
+         subject = map(., "subject") %>% map_depth(1, function(x) paste(x, collapse = "; ")) %>% map(null2na) %>% map_chr(1),
+         persecution = map(., "cases") %>% map(1) %>% map(2) %>% map(null2na) %>% map_chr(1),
+         persecution_region = map(., "region") %>% map(null2na) %>% map_chr(1),
+         persecution_start =   map(., "when") %>% map("from") %>% map("date") %>% map("$date") %>% map(null2na) %>% map_chr(1),
+         persecution_end =   map(., "when") %>% map("to") %>% map("date") %>% map("$date") %>% map(null2na) %>% map_chr(1),
+         n_articles = str_count(article, "; ")+1) %>% 
+  select(-1) %>% 
+  group_by(persecution) %>% 
+  mutate(n_persecutions = n()) %>% 
+  ungroup() %>% 
+  mutate(persecution = fct_reorder(persecution, n_persecutions),
+         detention_start = as_date(persecution_start),
+         detention_end = as_date(persecution_end)) %>% 
+  full_join(persons_df) ->
+  persons_data_df
+
+write_csv(persons_data_df, "persons_data.csv")
+```
+
+
+```{r}
+# site generation
+db <- read_csv("persons_data.csv")
 db  %>% 
-  mutate(imprison = lubridate::dmy(imprison),
-         clause = str_replace_all(clause, ";", "<br>"),
-         content = str_c(name, 
+  filter(!is.na(persecution_start),
+         !is.na(sex)) %>% 
+  mutate(article = str_replace_all(article, "; ", "<br>"),
+         persecution = ifelse(n_persecutions == 1, "одиночные дела", persecution),
+         brief = str_replace_all(str_wrap(brief, width = 40), "\n", "<br>"),
+         brief = str_remove(brief, "<br>$"),
+         content = paste0(firstname, 
                          " ",
-                         second_name, 
+                         ifelse(is.na(middlename), "", middlename), 
                          " ",
-                         last_name, 
-                         " (", 
-                         born,
-                         ") <br>",
-                         clause)) %>% 
-  rename(start = imprison) ->
+                         surname, 
+                         "<br>",
+                         "<details>", 
+                         "<img src='",
+                         photo_url,
+                         "' style='width:200px;'> <br>",
+                         " (р. ", 
+                         dob,
+                         ") <br>", 
+                         persecution,
+                         "<br>",
+                         brief,
+                         "<br>",
+                         article,
+                         "</details>")) %>% 
+  rename(start = persecution_start) %>% 
+  filter(!is.na(content)) ->
   for_timeline
 ```
 
@@ -31,46 +99,97 @@ db  %>%
 
 ##### Без группировки
 ```{r}
-timevis(for_timeline, showZoom = TRUE, fit = TRUE)
+timevis(for_timeline, showZoom = TRUE, fit = FALSE, height = 800)
 ```
 
+##### По профессии {.tabset .tabset-fade .tabset-pills}
 
-##### По делу
+###### общий график
+```{r}
+for_timeline %>% 
+  filter(!is.na(profession)) %>% 
+  count(profession) %>% 
+  ggplot(aes(fct_reorder(profession, n), n))+
+  geom_col(fill = "lightblue")+
+  coord_flip()+
+  labs(x = "",
+       y = "количество заключенных",
+       title = "Распределение заключенных по профессии", 
+       subtitle = "основано на данных базы мониторинга политических репрессий ОВД-Инфо",
+       caption = "Г. А. Мороз, 2019. Создано при помощи пакета ggplot2.")+
+  theme(plot.caption = element_text(color = rgb(1,250/255,250/255), size = 12))
+```
+
+```{r}
+map(unique(for_timeline$profession), function(i){
+  c(paste0("\n", "###### ", i, "\n"),
+    "```{r}",
+    "for_timeline %>%",
+    paste0("  filter(profession == '", i, "') %>%"),
+    "timevis(showZoom = TRUE, fit = FALSE, height = 800)",
+    "```")
+}) %>% 
+  map_chr(function(x){paste(x, collapse = "\n")}) %>% 
+  write_lines("by_profession.Rmd")
+```
+
+```{r child = 'by_profession.Rmd'}
+```
+
+##### По делу {.tabset .tabset-fade .tabset-pills}
+
+```{r}
+map(unique(for_timeline$persecution[!is.na(for_timeline$persecution)]), function(i){
+  c(paste0("\n", "###### ", i, "\n"),
+    "```{r}",
+    "for_timeline %>%",
+    paste0("  filter(persecution == '", i, "') %>%"),
+    "timevis(showZoom = TRUE, fit = FALSE, height = 800)",
+    "```")
+}) %>% 
+  map_chr(function(x){paste(x, collapse = "\n")}) %>% 
+  write_lines("by_persecution.Rmd")
+```
+
+```{r child = 'by_persecution.Rmd'}
+```
+
+##### По полу {.tabset .tabset-fade .tabset-pills}
+
+###### общий график
+
 ```{r}
 db %>% 
-  distinct(content = case,
-           id = as.numeric(factor(case))) ->
-  groups_case
-
-for_timeline %>% 
-  mutate(group = as.numeric(factor(case))) %>% 
-  timevis(showZoom = TRUE, fit = TRUE, groups = groups_case)
+  select(dob, sex) %>% 
+  na.omit() %>% 
+  ggplot(aes(dob, fill = sex))+
+  geom_density(alpha = 0.25)+
+  scale_y_continuous(NULL, breaks = NULL) +
+  ggthemes::scale_fill_tableau(name=NULL)+
+  labs(x = "год рождения", y = "", 
+       title = "Распределение заключенных по возрасту и полу", 
+       subtitle = "основано на данных базы мониторинга политических репрессий ОВД-Инфо",
+       caption = "Г. А. Мороз, 2019. Создано при помощи пакета ggplot2.")+
+  theme(plot.caption = element_text(color = rgb(1,250/255,250/255), size = 12),
+        legend.position = c(1, 1),
+        legend.justification = c(1.1, 1.1))
 ```
 
-##### По полу
+###### женщины
+
 ```{r}
-db %>% 
-  distinct(content = gender,
-           id = as.numeric(factor(gender))) ->
-  groups_gender
-
 for_timeline %>% 
-  mutate(group = as.numeric(factor(gender))) %>% 
-  timevis(showZoom = TRUE, fit = TRUE, groups = groups_gender)
+  filter(sex == "женский") %>% 
+  timevis(showZoom = TRUE, fit = FALSE, height = 800)
 ```
 
-##### По типу заключения
+###### мужчины
+
 ```{r}
-db %>% 
-  distinct(content = imprison_type,
-           id = as.numeric(factor(imprison_type))) ->
-  groups_imprison_type
-
 for_timeline %>% 
-  mutate(group = as.numeric(factor(imprison_type))) %>% 
-  timevis(showZoom = TRUE, fit = TRUE, groups = groups_imprison_type)
+  filter(sex == "мужской") %>% 
+  timevis(showZoom = TRUE, fit = FALSE, height = 800)
 ```
-
 
 ####  Database
 
